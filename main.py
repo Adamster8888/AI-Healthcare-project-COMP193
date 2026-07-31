@@ -1,9 +1,15 @@
 from pathlib import Path
+import torch
 
 
 def main():
-    input_dir = Path(__file__).resolve().parent
+    base_dir = Path(__file__).resolve().parent
+    input_dir = base_dir / "input"
     text_files = sorted(input_dir.glob("*.txt"))
+
+    if not input_dir.exists():
+        print("Input directory not found.")
+        return
 
     if not text_files:
         print("No text files found in the input directory.")
