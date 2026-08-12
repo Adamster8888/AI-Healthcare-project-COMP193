@@ -1,0 +1,892 @@
+Debbie941 Mei233 Herman763
+==========================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 34
+Birth Date:          1991-12-24
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2026-03-31[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Gingivitis (disorder)
+  2025-02-28[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2017-03-21[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Gingivitis (disorder)
+  2016-09-09[STOPPED] : {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day]
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2026-03-31 - 2026-03-31 : Dental filling lost (finding)
+  2026-03-24 -            : Normal pregnancy (finding)
+  2026-03-17 - 2026-03-31 : Gingivitis (disorder)
+  2026-03-17 -            : Social isolation (finding)
+  2026-03-17 -            : Prediabetes (finding)
+  2025-02-28 - 2025-04-23 : Epidermal burn of skin (disorder)
+  2025-02-28 - 2025-04-23 : Burn injury (morphologic abnormality)
+  2024-07-13 - 2024-07-14 : Overdose (disorder)
+  2023-05-11 - 2023-05-11 : Overdose (disorder)
+  2023-03-14 -            : Medication review due (situation)
+  2022-11-29 - 2023-07-11 : Normal pregnancy (finding)
+  2022-07-19 - 2022-07-27 : Complete miscarriage (disorder)
+  2022-07-19 - 2022-07-27 : Miscarriage in first trimester (disorder)
+  2022-07-19 - 2022-07-27 : Normal pregnancy (finding)
+  2022-05-31 - 2022-06-18 : Viral sinusitis (disorder)
+  2022-02-22 - 2022-03-22 : Normal pregnancy (finding)
+  2022-01-21 - 2022-01-21 : Overdose (disorder)
+  2021-04-28 - 2021-04-29 : Overdose (disorder)
+  2020-12-07 - 2021-01-03 : Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)
+  2020-12-07 - 2021-01-03 : Fatigue (finding)
+  2020-12-07 - 2021-01-03 : Sore throat (finding)
+  2020-12-07 - 2021-01-03 : Cough (finding)
+  2020-12-07 - 2020-12-07 : Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)
+  2020-07-21 - 2020-08-01 : Viral sinusitis (disorder)
+  2020-06-30 - 2020-06-30 : Medication review due (situation)
+  2020-06-23 - 2020-07-07 : Gingivitis (disorder)
+  2020-06-23 -            : Stress (finding)
+  2020-06-23 - 2023-03-14 : Limited social contact (finding)
+  2020-03-17 - 2020-10-27 : Normal pregnancy (finding)
+  2020-03-10 - 2020-06-23 : Medication review due (situation)
+  2019-03-05 - 2019-10-16 : Anemia (disorder)
+  2019-03-05 - 2019-10-16 : Normal pregnancy (finding)
+  2017-11-13 - 2017-11-13 : Overdose (disorder)
+  2017-03-21 - 2017-03-21 : Gingival disease (disorder)
+  2017-03-07 - 2017-03-21 : Gingivitis (disorder)
+  2017-03-07 - 2020-03-10 : Social isolation (finding)
+  2017-03-07 - 2017-03-07 : Medication review due (situation)
+  2015-07-17 -            : Dependent drug abuse (disorder)
+  2014-03-04 - 2020-03-10 : Stress (finding)
+  2014-03-04 -            : Full-time employment (finding)
+  2013-03-23 -            : Past pregnancy history of miscarriage (situation)
+  2010-02-23 -            : Educated to high school level (finding)
+  2007-07-15 -            : Chronic intractable migraine without aura (disorder)
+  2006-11-21 -            : Chronic pain (finding)
+  2006-01-26 -            : Impacted molars (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2026-03-24[CURRENT] : Routine antenatal care (regime/therapy)
+                         Activity: Antenatal education (procedure)
+                         Activity: Antenatal risk assessment (procedure)
+                         Activity: Antenatal blood tests (procedure)
+  2026-03-17[CURRENT] : Diabetes self management plan (record artifact)
+                         Reason: Prediabetes (finding)
+                         Activity: Diabetic diet (finding)
+                         Activity: Exercise therapy (regime/therapy)
+  2025-02-28[STOPPED] : Burn care (regime/therapy)
+                         Reason: Epidermal burn of skin (disorder)
+                         Activity: Dressing change management (procedure)
+                         Activity: Behavior to prevent sun exposure (observable entity)
+                         Activity: Behavior to prevent infection (observable entity)
+  2022-11-29[STOPPED] : Routine antenatal care (regime/therapy)
+                         Activity: Antenatal education (procedure)
+                         Activity: Antenatal risk assessment (procedure)
+                         Activity: Antenatal blood tests (procedure)
+  2020-12-07[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2020-12-07[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+  2020-03-17[STOPPED] : Routine antenatal care (regime/therapy)
+                         Activity: Antenatal education (procedure)
+                         Activity: Antenatal risk assessment (procedure)
+                         Activity: Antenatal blood tests (procedure)
+  2019-03-05[STOPPED] : Routine antenatal care (regime/therapy)
+                         Activity: Antenatal education (procedure)
+                         Activity: Antenatal risk assessment (procedure)
+                         Activity: Antenatal blood tests (procedure)
+  2017-11-13[CURRENT] : Care plan (record artifact)
+                         Activity: Drug addiction counseling (procedure)
+                         Activity: Drug detoxification (regime/therapy)
+                         Activity: Drug addiction therapy (regime/therapy)
+--------------------------------------------------------------------------------
+REPORTS:
+  2026-03-17 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.6 %
+           - MCV [Entitic mean volume] in Red Blood Cells by Automated count 87.2 fL
+           - MCH [Entitic mass] by Automated count    29.5 pg
+           - MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 34.3 g/dL
+           - Erythrocyte [DistWidth] in Blood by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 316.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 17.0 fL
+           - Platelet [Entitic mean volume] in Blood by Automated count 12.2 fL
+  2026-03-17 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 156.4 mg/dL
+           - Triglyceride [Mass/volume] in Serum or Plasma 125.1 mg/dL
+           - Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay 74.4 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 56.9 mg/dL
+  2026-03-17 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           73.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     13.9 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.7 mg/dL
+           - Calcium [Mass/volume] in Blood           10.1 mg/dL
+           - Sodium [Moles/volume] in Blood           139.6 mmol/L
+           - Potassium [Moles/volume] in Blood        4.4 mmol/L
+           - Chloride [Moles/volume] in Blood         102.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 23.6 mmol/L
+  2023-03-14 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2023-03-14 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2023-03-14 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 229.3 mg/dL
+           - Triglyceride [Mass/volume] in Serum or Plasma 135.5 mg/dL
+           - Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay 154.6 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 47.6 mg/dL
+  2020-12-07 : SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection
+           - SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection Detected (qualifier value) 
+  2020-12-07 : Influenza virus A and B Ag panel - Upper respiratory specimen by Rapid immunoassay
+           - Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+           - Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2020-06-23 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2020-03-10 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2020-03-10 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.7 %
+           - MCV [Entitic mean volume] in Red Blood Cells by Automated count 83.1 fL
+           - MCH [Entitic mass] by Automated count    30.0 pg
+           - MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 33.2 g/dL
+           - Erythrocyte [DistWidth] in Blood by Automated count 43.6 fL
+           - Platelets [#/volume] in Blood by Automated count 249.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 12.3 fL
+           - Platelet [Entitic mean volume] in Blood by Automated count 10.6 fL
+  2019-03-06 : Hemoglobin and Hematocrit panel - Blood
+           - Hemoglobin [Mass/volume] in Blood        11.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by calculation 33.9 %
+  2019-03-05 : CBC panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        8.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by calculation 26.4 %
+           - Leukocytes [#/volume] in Blood by Automated count 8.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - MCV [Entitic mean volume] in Red Blood Cells by Automated count 88.4 fL
+           - MCH [Entitic mass] by Automated count    28.5 pg
+           - MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 34.9 g/dL
+           - Erythrocyte [DistWidth] in Blood by Automated count 43.3 fL
+           - Platelets [#/volume] in Blood by Automated count 306.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 14.4 fL
+           - Platelet [Entitic mean volume] in Blood by Automated count 11.9 fL
+  2017-03-07 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2017-03-07 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-03-07 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2017-03-07 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2026-03-17 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner No 
+           - Do you feel physically and emotionally safe where you currently live [PRAPARE] Yes 
+           - Are you a refugee                        No 
+           - Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE] No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to [PRAPARE] Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE] I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX] 23633 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  544 Schuster Light 
+           - Are you worried about losing your housing [PRAPARE] No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address [#] 5.0 {#}
+           - Preferred language                       Language other than English 
+           - Discharged from the U.S. Armed Forces    No 
+           - Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE] No 
+           - Race                                     Asian 
+           - Hispanic or Latino                       No 
+  2026-03-17 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2026-03-17 : Platelet [Entitic mean volume] in Blood by Automated count 12.2 fL
+  2026-03-17 : Platelet distribution width [Entitic volume] in Blood by Automated count 17.0 fL
+  2026-03-17 : Platelets [#/volume] in Blood by Automated count 316.0 10*3/uL
+  2026-03-17 : Erythrocyte [DistWidth] in Blood by Automated count 44.1 fL
+  2026-03-17 : MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 34.3 g/dL
+  2026-03-17 : MCH [Entitic mass] by Automated count    29.5 pg
+  2026-03-17 : MCV [Entitic mean volume] in Red Blood Cells by Automated count 87.2 fL
+  2026-03-17 : Hematocrit [Volume Fraction] of Blood by Automated count 35.6 %
+  2026-03-17 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  2026-03-17 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2026-03-17 : Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+  2026-03-17 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 56.9 mg/dL
+  2026-03-17 : Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay 74.4 mg/dL
+  2026-03-17 : Triglyceride [Mass/volume] in Serum or Plasma 125.1 mg/dL
+  2026-03-17 : Cholesterol [Mass/volume] in Serum or Plasma 156.4 mg/dL
+  2026-03-17 : Carbon dioxide, total [Moles/volume] in Blood 23.6 mmol/L
+  2026-03-17 : Chloride [Moles/volume] in Blood         102.3 mmol/L
+  2026-03-17 : Potassium [Moles/volume] in Blood        4.4 mmol/L
+  2026-03-17 : Sodium [Moles/volume] in Blood           139.6 mmol/L
+  2026-03-17 : Calcium [Mass/volume] in Blood           10.1 mg/dL
+  2026-03-17 : Creatinine [Mass/volume] in Blood        1.7 mg/dL
+  2026-03-17 : Urea nitrogen [Mass/volume] in Blood     13.9 mg/dL
+  2026-03-17 : Glucose [Mass/volume] in Blood           73.6 mg/dL
+  2026-03-17 : Respiratory rate                         14.0 /min
+  2026-03-17 : Heart rate                               94.0 /min
+  2026-03-17 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 67.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2026-03-17 : Body mass index (BMI) [Ratio]            29.5 kg/m2
+  2026-03-17 : Body Weight                              86.2 kg
+  2026-03-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2026-03-17 : Body Height                              170.9 cm
+  2026-03-17 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2026-01-20 : Pregnancy status                         Pregnant 
+  2024-10-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2023-03-14 : Total score [HARK]                       0.0 {score}
+  2023-03-14 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2023-03-14 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner No 
+           - Do you feel physically and emotionally safe where you currently live [PRAPARE] Yes 
+           - Are you a refugee                        No 
+           - Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE] No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to [PRAPARE] 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE] I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX] 23633 /a
+           - Primary insurance                        Medicaid 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  544 Schuster Light 
+           - Are you worried about losing your housing [PRAPARE] No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address [#] 5.0 {#}
+           - Preferred language                       Language other than English 
+           - Discharged from the U.S. Armed Forces    No 
+           - Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE] No 
+           - Race                                     Asian 
+           - Hispanic or Latino                       No 
+  2023-03-14 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-03-14 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 47.6 mg/dL
+  2023-03-14 : Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay 154.6 mg/dL
+  2023-03-14 : Triglyceride [Mass/volume] in Serum or Plasma 135.5 mg/dL
+  2023-03-14 : Cholesterol [Mass/volume] in Serum or Plasma 229.3 mg/dL
+  2023-03-14 : Respiratory rate                         14.0 /min
+  2023-03-14 : Heart rate                               87.0 /min
+  2023-03-14 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 68.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2023-03-14 : Body mass index (BMI) [Ratio]            28.3 kg/m2
+  2023-03-14 : Body Weight                              82.6 kg
+  2023-03-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2023-03-14 : Body Height                              170.9 cm
+  2022-10-04 : Pregnancy status                         Pregnant 
+  2022-05-24 : Pregnancy status                         Pregnant 
+  2021-12-28 : Pregnancy status                         Pregnant 
+  2020-12-07 : SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection Detected (qualifier value) 
+  2020-12-07 : Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2020-12-07 : Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2020-12-07 : Body Weight                              77.7 kg
+  2020-12-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 68.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2020-12-07 : Oxygen saturation in Arterial blood      82.8 %
+  2020-12-07 : Heart rate                               60.3 /min
+  2020-12-07 : Respiratory rate                         15.9 /min
+  2020-12-07 : Body temperature                         39.4 Cel
+  2020-06-23 : Total score [HARK]                       0.0 {score}
+  2020-06-23 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner No 
+           - Do you feel physically and emotionally safe where you currently live [PRAPARE] Yes 
+           - Are you a refugee                        No 
+           - Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE] No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to [PRAPARE] 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE] Utilities 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX] 23633 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  544 Schuster Light 
+           - Are you worried about losing your housing [PRAPARE] No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address [#] 5.0 {#}
+           - Preferred language                       Language other than English 
+           - Discharged from the U.S. Armed Forces    No 
+           - Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE] No 
+           - Race                                     Asian 
+           - Hispanic or Latino                       No 
+  2020-06-23 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-06-23 : Respiratory rate                         13.0 /min
+  2020-06-23 : Heart rate                               71.0 /min
+  2020-06-23 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 64.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2020-06-23 : Body mass index (BMI) [Ratio]            26.6 kg/m2
+  2020-06-23 : Body Weight                              77.7 kg
+  2020-06-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-06-23 : Body Height                              170.9 cm
+  2020-03-10 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2020-03-10 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner No 
+           - Do you feel physically and emotionally safe where you currently live [PRAPARE] Yes 
+           - Are you a refugee                        No 
+           - Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE] No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to [PRAPARE] 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE] Medicine or Any Health Care (Medical, Dental, Mental Health, Vision) 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX] 23633 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  544 Schuster Light 
+           - Are you worried about losing your housing [PRAPARE] No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address [#] 5.0 {#}
+           - Preferred language                       Language other than English 
+           - Discharged from the U.S. Armed Forces    No 
+           - Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE] No 
+           - Race                                     Asian 
+           - Hispanic or Latino                       No 
+  2020-03-10 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-03-10 : Platelet [Entitic mean volume] in Blood by Automated count 10.6 fL
+  2020-03-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 12.3 fL
+  2020-03-10 : Platelets [#/volume] in Blood by Automated count 249.5 10*3/uL
+  2020-03-10 : Erythrocyte [DistWidth] in Blood by Automated count 43.6 fL
+  2020-03-10 : MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 33.2 g/dL
+  2020-03-10 : MCH [Entitic mass] by Automated count    30.0 pg
+  2020-03-10 : MCV [Entitic mean volume] in Red Blood Cells by Automated count 83.1 fL
+  2020-03-10 : Hematocrit [Volume Fraction] of Blood by Automated count 35.7 %
+  2020-03-10 : Hemoglobin [Mass/volume] in Blood        16.3 g/dL
+  2020-03-10 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2020-03-10 : Leukocytes [#/volume] in Blood by Automated count 10.0 10*3/uL
+  2020-03-10 : Respiratory rate                         14.0 /min
+  2020-03-10 : Heart rate                               81.0 /min
+  2020-03-10 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 68.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2020-03-10 : Body mass index (BMI) [Ratio]            26.6 kg/m2
+  2020-03-10 : Body Weight                              77.7 kg
+  2020-03-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-03-10 : Body Height                              170.9 cm
+  2020-01-14 : Pregnancy status                         Pregnant 
+  2019-03-06 : Hematocrit [Volume Fraction] of Blood by calculation 33.9 %
+  2019-03-06 : Hemoglobin [Mass/volume] in Blood        11.9 g/dL
+  2019-03-05 : Platelet [Entitic mean volume] in Blood by Automated count 11.9 fL
+  2019-03-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 14.4 fL
+  2019-03-05 : Platelets [#/volume] in Blood by Automated count 306.8 10*3/uL
+  2019-03-05 : Erythrocyte [DistWidth] in Blood by Automated count 43.3 fL
+  2019-03-05 : MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 34.9 g/dL
+  2019-03-05 : MCH [Entitic mass] by Automated count    28.5 pg
+  2019-03-05 : MCV [Entitic mean volume] in Red Blood Cells by Automated count 88.4 fL
+  2019-03-05 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2019-03-05 : Leukocytes [#/volume] in Blood by Automated count 8.5 10*3/uL
+  2019-03-05 : Hematocrit [Volume Fraction] of Blood by calculation 26.4 %
+  2019-03-05 : Hemoglobin [Mass/volume] in Blood        8.0 g/dL
+  2019-01-08 : Pregnancy status                         Pregnant 
+  2017-12-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2017-05-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2017-03-07 : Total score [DAST-10]                    0.0 {score}
+  2017-03-07 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-03-07 : Total score [HARK]                       0.0 {score}
+  2017-03-07 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2017-03-07 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner No 
+           - Do you feel physically and emotionally safe where you currently live [PRAPARE] Unsure 
+           - Are you a refugee                        No 
+           - Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE] No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to [PRAPARE] Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE] I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX] 23633 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  544 Schuster Light 
+           - Are you worried about losing your housing [PRAPARE] No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address [#] 5.0 {#}
+           - Preferred language                       Language other than English 
+           - Discharged from the U.S. Armed Forces    No 
+           - Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE] No 
+           - Race                                     Asian 
+           - Hispanic or Latino                       No 
+  2017-03-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2017-03-07 : Respiratory rate                         14.0 /min
+  2017-03-07 : Heart rate                               95.0 /min
+  2017-03-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 62.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2017-03-07 : Body mass index (BMI) [Ratio]            25.1 kg/m2
+  2017-03-07 : Body Weight                              73.2 kg
+  2017-03-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-03-07 : Body Height                              170.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2026-08-11 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2026-08-11 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2026-08-11 : Urine screening for glucose (procedure) for Normal pregnancy (finding)
+  2026-08-11 : Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure) for Normal pregnancy (finding)
+  2026-08-11 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2026-07-14 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2026-07-14 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2026-06-16 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2026-06-16 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2026-05-19 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2026-05-19 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2026-05-19 : Alpha-fetoprotein test - antenatal (procedure) for Normal pregnancy (finding)
+  2026-05-19 : Fetal anatomy study (procedure) for Normal pregnancy (finding)
+  2026-04-21 : Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure) for Normal pregnancy (finding)
+  2026-04-21 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2026-04-21 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2026-03-31 : Oral health education (procedure) for Gingivitis (disorder)
+  2026-03-31 : Dental fluoride treatment (procedure) for Gingivitis (disorder)
+  2026-03-31 : Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure) for Dental filling lost (finding)
+  2026-03-31 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2026-03-31 : Dental plain X-ray bitewing (procedure)
+  2026-03-31 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2026-03-31 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2026-03-31 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2026-03-31 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2026-03-24 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Urinalysis, protein, qualitative (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Measurement of Varicella-zoster virus antibody (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Rubella screening test (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Hepatitis C antibody, confirmatory test (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Urine screening test for diabetes (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Cytopathology procedure, preparation of smear, genital source (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Urine culture (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Syphilis infectious titer test (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Gonorrhea infection titer test (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Chlamydia antigen test (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Human immunodeficiency virus antigen test (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Hepatitis B surface antigen measurement (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Blood group typing (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2026-03-24 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2026-03-17 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2026-03-17 : Assessment of health and social care needs (procedure)
+  2026-01-27 : Removal of intrauterine contraceptive device (procedure)
+  2025-03-25 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2025-03-17 : Discharge from hospital (procedure)
+  2025-03-17 : Pre-discharge assessment (procedure)
+  2025-03-16 : Professional / ancillary services care (regime/therapy)
+  2025-03-16 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-15 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-14 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-13 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-12 : Professional / ancillary services care (regime/therapy)
+  2025-03-12 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-11 : Physical therapy procedure (regime/therapy)
+  2025-03-11 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-10 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-09 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-08 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-07 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-06 : Speech and language therapy regime (regime/therapy)
+  2025-03-06 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-05 : Occupational therapy (regime/therapy)
+  2025-03-05 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-04 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-03 : Speech and language therapy regime (regime/therapy)
+  2025-03-03 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-02 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-03-01 : Professional / ancillary services care (regime/therapy)
+  2025-03-01 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-02-28 : Nursing care/supplementary surveillance (regime/therapy)
+  2025-02-28 : Development of individualized plan of care (procedure)
+  2025-02-28 : Initial patient assessment (procedure)
+  2025-02-28 : History AND physical examination (procedure)
+  2025-02-23 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2025-01-24 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2024-12-25 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2024-11-25 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2024-03-28 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2024-02-27 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2024-01-28 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2023-12-29 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2023-11-29 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2023-10-30 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2023-09-30 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2023-08-31 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2023-09-03 : Insertion of intrauterine contraceptive device (procedure)
+  2023-08-22 : Depression screening (procedure)
+  2023-08-22 : Physical examination procedure (procedure)
+  2023-07-11 : Human parturition, function (observable entity) for Normal pregnancy (finding)
+  2023-07-11 : Epidural anesthesia (procedure) for Normal pregnancy (finding)
+  2023-07-04 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2023-07-04 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2023-06-27 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2023-06-27 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2023-06-13 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2023-06-13 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2023-06-13 : Streptococcus pneumoniae group B antigen assay (procedure) for Normal pregnancy (finding)
+  2023-05-16 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2023-05-16 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2023-04-18 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2023-04-18 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2023-04-18 : Urine screening for glucose (procedure) for Normal pregnancy (finding)
+  2023-04-18 : Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure) for Normal pregnancy (finding)
+  2023-04-18 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2023-03-21 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2023-03-21 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2023-03-14 : Screening for domestic abuse (procedure)
+  2023-03-14 : Assessment of anxiety (procedure)
+  2023-03-14 : Assessment of health and social care needs (procedure)
+  2023-02-21 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2023-02-21 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2023-01-24 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2023-01-24 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2023-01-24 : Alpha-fetoprotein test - antenatal (procedure) for Normal pregnancy (finding)
+  2023-01-24 : Fetal anatomy study (procedure) for Normal pregnancy (finding)
+  2023-01-24 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2022-12-27 : Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure) for Normal pregnancy (finding)
+  2022-12-27 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2022-12-27 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2022-12-25 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2022-11-29 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Urinalysis, protein, qualitative (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Measurement of Varicella-zoster virus antibody (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Rubella screening test (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Hepatitis C antibody, confirmatory test (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Urine screening test for diabetes (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Cytopathology procedure, preparation of smear, genital source (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Urine culture (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Syphilis infectious titer test (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Gonorrhea infection titer test (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Chlamydia antigen test (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Human immunodeficiency virus antigen test (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Hepatitis B surface antigen measurement (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Blood group typing (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2022-11-29 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2022-11-25 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2022-10-26 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2022-09-26 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2022-08-27 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2022-07-27 : Depression screening (procedure) for Complete miscarriage (disorder)
+  2022-07-27 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2022-07-27 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2022-07-19 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2022-07-19 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2022-06-27 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2022-05-28 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2022-04-28 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2022-03-29 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2022-03-22 : Depression screening (procedure) for Normal pregnancy (finding)
+  2022-03-22 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2022-03-22 : Pregnancy termination care (regime/therapy) for Normal pregnancy (finding)
+  2022-03-10 : Induced termination of pregnancy (procedure) for Normal pregnancy (finding)
+  2022-03-10 : Counseling for termination of pregnancy (procedure) for Normal pregnancy (finding)
+  2022-02-27 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2022-02-22 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2022-02-22 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2022-01-28 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2021-08-18 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2021-07-19 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2021-06-19 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2021-05-20 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2020-12-08 : Depression screening (procedure)
+  2020-12-08 : Physical examination procedure (procedure)
+  2020-12-07 : Face mask (physical object) for Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)
+  2020-10-27 : Human parturition, function (observable entity) for Normal pregnancy (finding)
+  2020-10-27 : Episiotomy (procedure) for Normal pregnancy (finding)
+  2020-10-13 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2020-10-13 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2020-10-13 : Streptococcus pneumoniae group B antigen assay (procedure) for Normal pregnancy (finding)
+  2020-10-12 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2020-09-15 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2020-09-15 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2020-09-12 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2020-08-18 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2020-08-18 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2020-08-18 : Urine screening for glucose (procedure) for Normal pregnancy (finding)
+  2020-08-18 : Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure) for Normal pregnancy (finding)
+  2020-08-18 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2020-08-13 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2020-07-21 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2020-07-21 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2020-07-14 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2020-07-07 : Oral health education (procedure) for Gingivitis (disorder)
+  2020-07-07 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2020-07-07 : Dental plain X-ray bitewing (procedure)
+  2020-07-07 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2020-07-07 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2020-07-07 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2020-07-07 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2020-06-30 : Medication reconciliation (procedure)
+  2020-06-23 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2020-06-23 : Screening for domestic abuse (procedure)
+  2020-06-23 : Assessment of health and social care needs (procedure)
+  2020-06-23 : Medication reconciliation (procedure)
+  2020-06-09 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2020-06-09 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2020-05-23 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2020-05-12 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2020-05-12 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2020-05-12 : Alpha-fetoprotein test - antenatal (procedure) for Normal pregnancy (finding)
+  2020-05-12 : Fetal anatomy study (procedure) for Normal pregnancy (finding)
+  2020-04-23 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2020-04-14 : Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure) for Normal pregnancy (finding)
+  2020-04-14 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2020-04-14 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2020-03-24 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2020-03-17 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Urinalysis, protein, qualitative (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Measurement of Varicella-zoster virus antibody (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Rubella screening test (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Hepatitis C antibody, confirmatory test (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Urine screening test for diabetes (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Cytopathology procedure, preparation of smear, genital source (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Urine culture (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Syphilis infectious titer test (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Gonorrhea infection titer test (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Chlamydia antigen test (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Human immunodeficiency virus antigen test (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Hepatitis B surface antigen measurement (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Blood group typing (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2020-03-17 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2020-03-10 : Assessment of anxiety (procedure)
+  2020-03-10 : Assessment of health and social care needs (procedure)
+  2020-02-23 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2020-01-24 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2019-12-25 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2019-11-27 : Depression screening (procedure)
+  2019-11-27 : Physical examination procedure (procedure)
+  2019-11-25 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2019-10-26 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2019-10-16 : Human parturition, function (observable entity) for Normal pregnancy (finding)
+  2019-10-16 : Epidural anesthesia (procedure) for Normal pregnancy (finding)
+  2019-10-09 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-10-09 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-10-02 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-10-02 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-09-26 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2019-09-18 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-09-18 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-09-18 : Streptococcus pneumoniae group B antigen assay (procedure) for Normal pregnancy (finding)
+  2019-08-21 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-08-21 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-08-27 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2019-07-24 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-07-24 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-07-24 : Urine screening for glucose (procedure) for Normal pregnancy (finding)
+  2019-07-24 : Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure) for Normal pregnancy (finding)
+  2019-07-24 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2019-07-27 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2019-06-26 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-06-26 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-06-27 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2019-05-29 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-05-29 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-05-01 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-05-01 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-05-01 : Alpha-fetoprotein test - antenatal (procedure) for Normal pregnancy (finding)
+  2019-05-01 : Fetal anatomy study (procedure) for Normal pregnancy (finding)
+  2019-04-03 : Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure) for Normal pregnancy (finding)
+  2019-04-03 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-04-03 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Intravenous blood transfusion of packed cells (procedure)
+  2019-03-05 : Brief general examination (procedure)
+  2019-03-05 : Medication reconciliation (procedure)
+  2019-03-05 : Review of systems (procedure)
+  2019-03-05 : Peripheral blood smear interpretation (procedure)
+  2019-03-05 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Urinalysis, protein, qualitative (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Measurement of Varicella-zoster virus antibody (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Rubella screening test (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Hepatitis C antibody, confirmatory test (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Urine screening test for diabetes (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Cytopathology procedure, preparation of smear, genital source (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Urine culture (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Syphilis infectious titer test (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Gonorrhea infection titer test (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Chlamydia antigen test (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Human immunodeficiency virus antigen test (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Hepatitis B surface antigen measurement (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Blood group typing (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2019-03-05 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2017-07-22 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+  2017-03-21 : Oral health education (procedure) for Gingivitis (disorder)
+  2017-03-21 : Dental fluoride treatment (procedure) for Gingivitis (disorder)
+  2017-03-21 : Postoperative care for dental procedure (regime/therapy)
+  2017-03-21 : Gingivectomy or gingivoplasty, per tooth (procedure) for Gingival disease (disorder)
+  2017-03-21 : Dental application of desensitizing medicament (procedure) for Gingival disease (disorder)
+  2017-03-21 : Dental surgical procedure (procedure) for Gingival disease (disorder)
+  2017-03-21 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2017-03-21 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2017-03-21 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2017-03-21 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2017-03-21 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2017-03-07 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2017-03-07 : Screening for drug abuse (procedure)
+  2017-03-07 : Assessment of substance use (procedure)
+  2017-03-07 : Depression screening (procedure)
+  2017-03-07 : Depression screening (procedure)
+  2017-03-07 : Screening for domestic abuse (procedure)
+  2017-03-07 : Assessment of anxiety (procedure)
+  2017-03-07 : Assessment of health and social care needs (procedure)
+  2017-03-07 : Medication reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2026-03-17 : Influenza, split virus, trivalent, PF
+  2023-03-14 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2023-03-14 : Influenza, split virus, trivalent, PF
+  2020-06-30 : Influenza, split virus, trivalent, PF
+  2020-06-23 : Influenza, split virus, trivalent, PF
+  2020-03-10 : Influenza, split virus, trivalent, PF
+  2017-03-07 : Influenza, split virus, trivalent, PF
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2026-08-11 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2026-07-14 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2026-06-16 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2026-05-19 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2026-04-21 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2026-03-31 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Gingivitis (disorder)
+2026-03-24 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2026-03-17 (Dr. Chris95 Haag279) : Encounter at GREATER LOWELL FAMILY PRACTICE PC
+2026-01-27 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Contraception care (regime/therapy)
+2025-04-23 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Epidermal burn of skin (disorder)
+2025-03-25 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2025-02-28 (Dr. Frances376 Hansen121) : Encounter at BEAR MT LOWELL LLC : Encounter for Patient transfer to skilled nursing facility (procedure)
+2025-02-28 (Dr. Anabel269 Hilll811) : Encounter at CIRCLE HOME : Encounter for Burn injury (morphologic abnormality)
+2025-02-23 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2025-01-24 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2024-12-25 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2024-11-25 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2024-10-20 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2024-07-13 (Dr. Anabel269 Hilll811) : Encounter at CIRCLE HOME : Encounter for Overdose (disorder)
+2024-03-28 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2024-02-27 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2024-01-28 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2023-12-29 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2023-11-29 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2023-10-30 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2023-09-30 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2023-08-31 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2023-09-03 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Contraception care (regime/therapy)
+2023-08-29 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Contraception care (regime/therapy)
+2023-08-22 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL
+2023-07-11 (Dr. Anabel269 Hilll811) : Encounter at CIRCLE HOME : Encounter for Normal pregnancy (finding)
+2023-07-04 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2023-06-27 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2023-06-13 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2023-05-16 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2023-05-11 (Dr. Anabel269 Hilll811) : Encounter at CIRCLE HOME : Encounter for Overdose (disorder)
+2023-04-18 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2023-03-21 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2023-03-14 (Dr. Chris95 Haag279) : Encounter at GREATER LOWELL FAMILY PRACTICE PC
+2023-02-21 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2023-01-24 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2023-01-24 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2022-12-27 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2022-12-25 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2022-11-29 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2022-11-25 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2022-10-26 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2022-09-26 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2022-08-27 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2022-07-27 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Complete miscarriage (disorder)
+2022-07-27 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2022-07-19 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2022-06-27 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2022-05-31 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2022-05-28 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2022-04-28 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2022-03-29 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2022-03-22 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2022-03-10 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2022-02-27 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2022-02-22 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2022-01-28 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2022-01-21 (Dr. Anabel269 Hilll811) : Encounter at CIRCLE HOME : Encounter for Overdose (disorder)
+2021-08-18 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2021-07-19 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2021-06-19 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2021-05-20 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2021-04-28 (Dr. Anabel269 Hilll811) : Encounter at CIRCLE HOME : Encounter for Overdose (disorder)
+2020-12-08 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL
+2020-12-07 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)
+2020-10-27 (Dr. Anabel269 Hilll811) : Encounter at CIRCLE HOME : Encounter for Normal pregnancy (finding)
+2020-10-13 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2020-10-12 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2020-09-15 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2020-09-12 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2020-08-18 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2020-08-13 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2020-07-21 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2020-07-21 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2020-07-14 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2020-07-07 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Gingivitis (disorder)
+2020-06-30 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL
+2020-06-23 (Dr. Rema399 McDermott739) : Encounter at URGENT HELP CHELMSFORD PC
+2020-06-09 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2020-05-23 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2020-05-12 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2020-04-23 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2020-04-14 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2020-03-24 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2020-03-17 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2020-03-10 (Dr. Chris95 Haag279) : Encounter at GREATER LOWELL FAMILY PRACTICE PC
+2020-02-23 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2020-01-24 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2019-12-25 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2019-11-27 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL
+2019-11-25 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2019-10-26 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2019-10-16 (Dr. Anabel269 Hilll811) : Encounter at CIRCLE HOME : Encounter for Normal pregnancy (finding)
+2019-10-09 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-10-02 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-09-26 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2019-09-18 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-08-21 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-08-27 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2019-07-24 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-07-27 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2019-06-26 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-06-27 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2019-05-29 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-05-01 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-04-03 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-03-06 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Anemia (disorder)
+2019-03-05 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Anemia (disorder)
+2019-03-05 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy (finding)
+2017-12-04 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2017-11-13 (Dr. Anabel269 Hilll811) : Encounter at CIRCLE HOME : Encounter for Overdose (disorder)
+2017-07-22 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2017-05-27 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2017-03-21 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Gingivitis (disorder)
+2017-03-07 (Dr. Chris95 Haag279) : Encounter at GREATER LOWELL FAMILY PRACTICE PC
+2016-09-09 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Contraception care (regime/therapy)
+2015-07-17 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Dependent drug abuse (disorder)
+2014-03-04 (Dr. Chris95 Haag279) : Encounter at GREATER LOWELL FAMILY PRACTICE PC
+2013-03-23 (Dr. Carlton317 Koch169) : Encounter at TEWKSBURY HOSPITAL : Encounter for Complete miscarriage (disorder)
+2010-02-23 (Dr. Chris95 Haag279) : Encounter at GREATER LOWELL FAMILY PRACTICE PC
+2007-07-15 (Dr. Anabel269 Hilll811) : Encounter at CIRCLE HOME : Encounter for Chronic intractable migraine without aura (disorder)
+2006-11-21 (Dr. Anabel269 Hilll811) : Encounter at CIRCLE HOME : Encounter for Chronic pain (finding)
+2006-01-26 (Dr. Anabel269 Hilll811) : Encounter at CIRCLE HOME : Encounter for Impacted molars (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2026-03-31 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+  2020-07-07 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+--------------------------------------------------------------------------------

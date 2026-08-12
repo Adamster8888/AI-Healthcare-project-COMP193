@@ -1,0 +1,367 @@
+Kasi212 Crista774 Effertz744
+============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 37
+Birth Date:          1989-05-17
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-10-13[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+  2022-09-19[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2019-01-11[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2023-08-02 -            : Part-time employment (finding)
+  2023-08-02 - 2026-08-05 : Medication review due (situation)
+  2022-10-19 -            : Loss of teeth (disorder)
+  2022-10-12 - 2022-10-13 : Infection of tooth (disorder)
+  2022-09-28 - 2023-08-02 : Limited social contact (finding)
+  2022-09-28 - 2023-08-02 : Full-time employment (finding)
+  2022-09-28 - 2022-09-28 : Medication review due (situation)
+  2022-09-19 - 2022-09-27 : Acute bronchitis (disorder)
+  2020-07-29 -            : Stress (finding)
+  2019-01-11 - 2019-01-24 : Streptococcal sore throat (disorder)
+  2017-07-26 - 2020-07-29 : Medication review due (situation)
+  2015-01-10 -            : History of tubal ligation (situation)
+  2007-07-11 - 2022-09-28 : Unemployed (finding)
+  2007-07-11 -            : Educated to high school level (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-09-19[STOPPED] : Respiratory therapy (procedure)
+                         Activity: Recommendation to avoid exercise (procedure)
+                         Activity: Deep breathing and coughing exercises (regime/therapy)
+--------------------------------------------------------------------------------
+REPORTS:
+  2026-08-05 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 174.2 mg/dL
+           - Triglyceride [Mass/volume] in Serum or Plasma 140.5 mg/dL
+           - Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay 90.2 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 56.0 mg/dL
+  2023-08-02 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2023-08-02 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2023-08-02 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2023-08-02 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2023-08-02 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 248.4 mg/dL
+           - Triglyceride [Mass/volume] in Serum or Plasma 106.8 mg/dL
+           - Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay 169.4 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 57.7 mg/dL
+  2022-09-28 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2022-09-28 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2022-09-28 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.9 %
+           - MCV [Entitic mean volume] in Red Blood Cells by Automated count 84.3 fL
+           - MCH [Entitic mass] by Automated count    29.3 pg
+           - MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 33.5 g/dL
+           - Erythrocyte [DistWidth] in Blood by Automated count 42.8 fL
+           - Platelets [#/volume] in Blood by Automated count 248.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 11.7 fL
+           - Platelet [Entitic mean volume] in Blood by Automated count 10.1 fL
+  2020-07-29 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2020-07-29 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-07-29 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 224.4 mg/dL
+           - Triglyceride [Mass/volume] in Serum or Plasma 143.9 mg/dL
+           - Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay 142.3 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 53.2 mg/dL
+  2017-07-26 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-07-26 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2017-07-26 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.8 %
+           - MCV [Entitic mean volume] in Red Blood Cells by Automated count 84.8 fL
+           - MCH [Entitic mass] by Automated count    28.7 pg
+           - MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 33.8 g/dL
+           - Erythrocyte [DistWidth] in Blood by Automated count 40.0 fL
+           - Platelets [#/volume] in Blood by Automated count 257.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 13.9 fL
+           - Platelet [Entitic mean volume] in Blood by Automated count 9.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2026-08-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2026-08-05 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 56.0 mg/dL
+  2026-08-05 : Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay 90.2 mg/dL
+  2026-08-05 : Triglyceride [Mass/volume] in Serum or Plasma 140.5 mg/dL
+  2026-08-05 : Cholesterol [Mass/volume] in Serum or Plasma 174.2 mg/dL
+  2026-08-05 : Respiratory rate                         12.0 /min
+  2026-08-05 : Heart rate                               85.0 /min
+  2026-08-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 91.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2026-08-05 : Body mass index (BMI) [Ratio]            29.9 kg/m2
+  2026-08-05 : Body Weight                              76.3 kg
+  2026-08-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2026-08-05 : Body Height                              159.6 cm
+  2023-08-02 : Total score [AUDIT-C]                    1.0 {score}
+  2023-08-02 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2023-08-02 : Total score [HARK]                       0.0 {score}
+  2023-08-02 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2023-08-02 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner No 
+           - Do you feel physically and emotionally safe where you currently live [PRAPARE] Yes 
+           - Are you a refugee                        No 
+           - Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE] No 
+           - Stress level                             I choose not to answer this question 
+           - How often do you see or talk to people that you care about and feel close to [PRAPARE] 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE] Other 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX] 25730 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  732 Reilly Vista Apt 76 
+           - Are you worried about losing your housing [PRAPARE] No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address [#] 2.0 {#}
+           - Preferred language                       English 
+           - Discharged from the U.S. Armed Forces    No 
+           - Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE] No 
+           - Race                                     White 
+           - Hispanic or Latino                       No 
+  2023-08-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-08-02 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 57.7 mg/dL
+  2023-08-02 : Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay 169.4 mg/dL
+  2023-08-02 : Triglyceride [Mass/volume] in Serum or Plasma 106.8 mg/dL
+  2023-08-02 : Cholesterol [Mass/volume] in Serum or Plasma 248.4 mg/dL
+  2023-08-02 : Respiratory rate                         14.0 /min
+  2023-08-02 : Heart rate                               65.0 /min
+  2023-08-02 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  140.0 mm[Hg]
+  2023-08-02 : Body mass index (BMI) [Ratio]            28.1 kg/m2
+  2023-08-02 : Body Weight                              71.6 kg
+  2023-08-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2023-08-02 : Body Height                              159.6 cm
+  2022-09-28 : Total score [AUDIT-C]                    1.0 {score}
+  2022-09-28 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2022-09-28 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner No 
+           - Do you feel physically and emotionally safe where you currently live [PRAPARE] Yes 
+           - Are you a refugee                        No 
+           - Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE] No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to [PRAPARE] 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE] Medicine or Any Health Care (Medical, Dental, Mental Health, Vision) 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX] 25730 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  732 Reilly Vista Apt 76 
+           - Are you worried about losing your housing [PRAPARE] No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address [#] 2.0 {#}
+           - Preferred language                       English 
+           - Discharged from the U.S. Armed Forces    No 
+           - Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE] No 
+           - Race                                     White 
+           - Hispanic or Latino                       No 
+  2022-09-28 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-09-28 : Platelet [Entitic mean volume] in Blood by Automated count 10.1 fL
+  2022-09-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 11.7 fL
+  2022-09-28 : Platelets [#/volume] in Blood by Automated count 248.8 10*3/uL
+  2022-09-28 : Erythrocyte [DistWidth] in Blood by Automated count 42.8 fL
+  2022-09-28 : MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 33.5 g/dL
+  2022-09-28 : MCH [Entitic mass] by Automated count    29.3 pg
+  2022-09-28 : MCV [Entitic mean volume] in Red Blood Cells by Automated count 84.3 fL
+  2022-09-28 : Hematocrit [Volume Fraction] of Blood by Automated count 47.9 %
+  2022-09-28 : Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+  2022-09-28 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2022-09-28 : Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+  2022-09-28 : Respiratory rate                         14.0 /min
+  2022-09-28 : Heart rate                               85.0 /min
+  2022-09-28 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2022-09-28 : Body mass index (BMI) [Ratio]            27.6 kg/m2
+  2022-09-28 : Body Weight                              70.2 kg
+  2022-09-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2022-09-28 : Body Height                              159.6 cm
+  2020-07-29 : Total score [AUDIT-C]                    0.0 {score}
+  2020-07-29 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-07-29 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner No 
+           - Do you feel physically and emotionally safe where you currently live [PRAPARE] Yes 
+           - Are you a refugee                        No 
+           - Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE] No 
+           - Stress level                             Very much 
+           - How often do you see or talk to people that you care about and feel close to [PRAPARE] 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE] I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX] 25730 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Unemployed 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  732 Reilly Vista Apt 76 
+           - Are you worried about losing your housing [PRAPARE] No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address [#] 2.0 {#}
+           - Preferred language                       English 
+           - Discharged from the U.S. Armed Forces    No 
+           - Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE] No 
+           - Race                                     White 
+           - Hispanic or Latino                       No 
+  2020-07-29 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-07-29 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 53.2 mg/dL
+  2020-07-29 : Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay 142.3 mg/dL
+  2020-07-29 : Triglyceride [Mass/volume] in Serum or Plasma 143.9 mg/dL
+  2020-07-29 : Cholesterol [Mass/volume] in Serum or Plasma 224.4 mg/dL
+  2020-07-29 : Respiratory rate                         15.0 /min
+  2020-07-29 : Heart rate                               74.0 /min
+  2020-07-29 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2020-07-29 : Body mass index (BMI) [Ratio]            29.4 kg/m2
+  2020-07-29 : Body Weight                              74.9 kg
+  2020-07-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-07-29 : Body Height                              159.6 cm
+  2019-01-11 : Body temperature                         38.7 Cel
+  2017-07-26 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-07-26 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2017-07-26 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner No 
+           - Do you feel physically and emotionally safe where you currently live [PRAPARE] Yes 
+           - Are you a refugee                        No 
+           - Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE] No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to [PRAPARE] 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE] Utilities 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX] 25730 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Unemployed 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  732 Reilly Vista Apt 76 
+           - Are you worried about losing your housing [PRAPARE] No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address [#] 2.0 {#}
+           - Preferred language                       English 
+           - Discharged from the U.S. Armed Forces    No 
+           - Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE] No 
+           - Race                                     White 
+           - Hispanic or Latino                       No 
+  2017-07-26 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2017-07-26 : Platelet [Entitic mean volume] in Blood by Automated count 9.6 fL
+  2017-07-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 13.9 fL
+  2017-07-26 : Platelets [#/volume] in Blood by Automated count 257.1 10*3/uL
+  2017-07-26 : Erythrocyte [DistWidth] in Blood by Automated count 40.0 fL
+  2017-07-26 : MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 33.8 g/dL
+  2017-07-26 : MCH [Entitic mass] by Automated count    28.7 pg
+  2017-07-26 : MCV [Entitic mean volume] in Red Blood Cells by Automated count 84.8 fL
+  2017-07-26 : Hematocrit [Volume Fraction] of Blood by Automated count 42.8 %
+  2017-07-26 : Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+  2017-07-26 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2017-07-26 : Leukocytes [#/volume] in Blood by Automated count 6.5 10*3/uL
+  2017-07-26 : Respiratory rate                         12.0 /min
+  2017-07-26 : Heart rate                               69.0 /min
+  2017-07-26 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 91.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2017-07-26 : Body mass index (BMI) [Ratio]            27.2 kg/m2
+  2017-07-26 : Body Weight                              69.2 kg
+  2017-07-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-07-26 : Body Height                              159.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2026-08-05 : Assessment of health and social care needs (procedure)
+  2026-08-05 : Medication reconciliation (procedure)
+  2023-08-02 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2023-08-02 : Assessment of substance use (procedure)
+  2023-08-02 : Depression screening (procedure)
+  2023-08-02 : Depression screening (procedure)
+  2023-08-02 : Screening for domestic abuse (procedure)
+  2023-08-02 : Assessment of anxiety (procedure)
+  2023-08-02 : Assessment of health and social care needs (procedure)
+  2022-11-09 : Fitting of denture (procedure) for Loss of teeth (disorder)
+  2022-10-19 : Take oral or dental impression (procedure) for Loss of teeth (disorder)
+  2022-10-19 : Dental plain X-ray bitewing (procedure)
+  2022-10-19 : Dental consultation and report (procedure) for Loss of teeth (disorder)
+  2022-10-13 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2022-10-13 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2022-10-13 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2022-10-13 : Postoperative care for dental procedure (regime/therapy)
+  2022-10-13 : Simple extraction of tooth (procedure) for Infection of tooth (disorder)
+  2022-10-12 : Dental application of desensitizing medicament (procedure) for Infection of tooth (disorder)
+  2022-10-12 : Dental surgical procedure (procedure) for Infection of tooth (disorder)
+  2022-10-12 : Dental plain X-ray bitewing (procedure)
+  2022-10-12 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2022-10-12 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2022-10-12 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2022-10-12 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2022-09-28 : Patient referral for dental care (procedure)
+  2022-09-28 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-09-28 : Assessment of substance use (procedure)
+  2022-09-28 : Depression screening (procedure)
+  2022-09-28 : Depression screening (procedure)
+  2022-09-28 : Assessment of health and social care needs (procedure)
+  2022-09-28 : Medication reconciliation (procedure)
+  2022-09-19 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2020-08-12 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2020-08-12 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2020-08-12 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2020-08-12 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2020-08-12 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2020-08-12 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2020-07-29 : Patient referral for dental care (procedure)
+  2020-07-29 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2020-07-29 : Assessment of substance use (procedure)
+  2020-07-29 : Depression screening (procedure)
+  2020-07-29 : Depression screening (procedure)
+  2020-07-29 : Assessment of health and social care needs (procedure)
+  2020-07-29 : Medication reconciliation (procedure)
+  2017-07-26 : Depression screening (procedure)
+  2017-07-26 : Depression screening (procedure)
+  2017-07-26 : Assessment of anxiety (procedure)
+  2017-07-26 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2026-08-05 : Influenza, split virus, trivalent, PF
+  2023-08-02 : Influenza, split virus, trivalent, PF
+  2022-09-28 : Influenza, split virus, trivalent, PF
+  2021-04-28 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2021-04-07 : COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+  2020-07-29 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2020-07-29 : Influenza, split virus, trivalent, PF
+  2017-07-26 : Influenza, split virus, trivalent, PF
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2026-08-05 (Dr. Lynwood354 Ratke343) : Encounter at HEALTHFIRST FAMILY CARE CENTER INC
+2023-08-02 (Dr. Lynwood354 Ratke343) : Encounter at HEALTHFIRST FAMILY CARE CENTER INC
+2022-11-09 (Dr. Agnes294 Dooley940) : Encounter at DR JOHN C CORRIGAN MENTAL HEALTH CENTER : Encounter for Loss of teeth (disorder)
+2022-10-19 (Dr. Agnes294 Dooley940) : Encounter at DR JOHN C CORRIGAN MENTAL HEALTH CENTER : Encounter for Loss of teeth (disorder)
+2022-10-12 (Dr. Agnes294 Dooley940) : Encounter at DR JOHN C CORRIGAN MENTAL HEALTH CENTER : Encounter for Patient referral for dental care (procedure)
+2022-09-28 (Dr. Agnes294 Dooley940) : Encounter at DR JOHN C CORRIGAN MENTAL HEALTH CENTER
+2022-09-19 (Dr. Agnes294 Dooley940) : Encounter at DR JOHN C CORRIGAN MENTAL HEALTH CENTER : Encounter for Acute bronchitis (disorder)
+2021-04-28 (Dr. Agnes294 Dooley940) : Encounter at DR JOHN C CORRIGAN MENTAL HEALTH CENTER
+2021-04-07 (Dr. Agnes294 Dooley940) : Encounter at DR JOHN C CORRIGAN MENTAL HEALTH CENTER
+2020-08-12 (Dr. Agnes294 Dooley940) : Encounter at DR JOHN C CORRIGAN MENTAL HEALTH CENTER : Encounter for Patient referral for dental care (procedure)
+2020-07-29 (Dr. Lynwood354 Ratke343) : Encounter at HEALTHFIRST FAMILY CARE CENTER INC
+2019-01-11 (Dr. Agnes294 Dooley940) : Encounter at DR JOHN C CORRIGAN MENTAL HEALTH CENTER : Encounter for Streptococcal sore throat (disorder)
+2017-07-26 (Dr. Lynwood354 Ratke343) : Encounter at HEALTHFIRST FAMILY CARE CENTER INC
+2015-01-10 (Dr. Agnes294 Dooley940) : Encounter at DR JOHN C CORRIGAN MENTAL HEALTH CENTER : Encounter for Sterilization requested (situation)
+2007-07-11 (Dr. Lynwood354 Ratke343) : Encounter at HEALTHFIRST FAMILY CARE CENTER INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2022-10-19 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+  2022-10-12 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+--------------------------------------------------------------------------------

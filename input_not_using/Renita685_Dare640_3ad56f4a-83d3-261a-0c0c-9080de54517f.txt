@@ -1,0 +1,364 @@
+Renita685 Dare640
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 8
+Birth Date:          2018-08-08
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-06-12[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2020-06-12[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2019-10-02[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2019-10-02[STOPPED] : Cefuroxime 250 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2026-08-05 -            : Gingivitis (disorder)
+  2026-08-05 - 2026-08-05 : Medication review due (situation)
+  2025-07-30 - 2025-07-30 : Medication review due (situation)
+  2024-07-24 - 2024-07-24 : Medication review due (situation)
+  2022-07-13 - 2023-07-19 : Medication review due (situation)
+  2022-01-12 - 2022-01-12 : Medication review due (situation)
+  2020-07-15 - 2021-07-14 : Medication review due (situation)
+  2020-06-12 - 2020-07-15 : Otitis media (disorder)
+  2020-01-15 - 2020-01-15 : Medication review due (situation)
+  2019-10-02 - 2019-10-16 : Otitis media (disorder)
+  2018-11-14 - 2019-10-16 : Medication review due (situation)
+  2018-08-08 - 2018-09-12 : Medication review due (situation)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2024-07-24 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.0 %
+           - MCV [Entitic mean volume] in Red Blood Cells by Automated count 95.0 fL
+           - MCH [Entitic mass] by Automated count    32.1 pg
+           - MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 35.7 g/dL
+           - Erythrocyte [DistWidth] in Blood by Automated count 39.2 fL
+           - Platelets [#/volume] in Blood by Automated count 171.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 16.0 fL
+           - Platelet [Entitic mean volume] in Blood by Automated count 11.7 fL
+  2018-08-08 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.2 %
+           - MCV [Entitic mean volume] in Red Blood Cells by Automated count 82.8 fL
+           - MCH [Entitic mass] by Automated count    30.0 pg
+           - MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 33.9 g/dL
+           - Erythrocyte [DistWidth] in Blood by Automated count 41.5 fL
+           - Platelets [#/volume] in Blood by Automated count 262.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 10.8 fL
+           - Platelet [Entitic mean volume] in Blood by Automated count 10.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2026-08-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2026-08-05 : Respiratory rate                         14.0 /min
+  2026-08-05 : Heart rate                               89.0 /min
+  2026-08-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 69.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2026-08-05 : Body mass index (BMI) [Percentile] Per age and sex 68.0 %
+  2026-08-05 : Body mass index (BMI) [Ratio]            16.8 kg/m2
+  2026-08-05 : Body Weight                              22.9 kg
+  2026-08-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2026-08-05 : Body Height                              116.9 cm
+  2025-07-30 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2025-07-30 : Respiratory rate                         15.0 /min
+  2025-07-30 : Heart rate                               77.0 /min
+  2025-07-30 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 70.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2025-07-30 : Body mass index (BMI) [Percentile] Per age and sex 62.7 %
+  2025-07-30 : Body mass index (BMI) [Ratio]            16.0 kg/m2
+  2025-07-30 : Body Weight                              19.8 kg
+  2025-07-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2025-07-30 : Body Height                              111.4 cm
+  2024-07-24 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2024-07-24 : Platelet [Entitic mean volume] in Blood by Automated count 11.7 fL
+  2024-07-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 16.0 fL
+  2024-07-24 : Platelets [#/volume] in Blood by Automated count 171.0 10*3/uL
+  2024-07-24 : Erythrocyte [DistWidth] in Blood by Automated count 39.2 fL
+  2024-07-24 : MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 35.7 g/dL
+  2024-07-24 : MCH [Entitic mass] by Automated count    32.1 pg
+  2024-07-24 : MCV [Entitic mean volume] in Red Blood Cells by Automated count 95.0 fL
+  2024-07-24 : Hematocrit [Volume Fraction] of Blood by Automated count 41.0 %
+  2024-07-24 : Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+  2024-07-24 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2024-07-24 : Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+  2024-07-24 : Respiratory rate                         15.0 /min
+  2024-07-24 : Heart rate                               91.0 /min
+  2024-07-24 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 65.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2024-07-24 : Body mass index (BMI) [Percentile] Per age and sex 45.0 %
+  2024-07-24 : Body mass index (BMI) [Ratio]            15.0 kg/m2
+  2024-07-24 : Body Weight                              16.6 kg
+  2024-07-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2024-07-24 : Body Height                              105.2 cm
+  2023-07-19 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-07-19 : Respiratory rate                         13.0 /min
+  2023-07-19 : Heart rate                               64.0 /min
+  2023-07-19 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 66.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2023-07-19 : Body mass index (BMI) [Percentile] Per age and sex 52.4 %
+  2023-07-19 : Body mass index (BMI) [Ratio]            15.2 kg/m2
+  2023-07-19 : Body Weight                              14.9 kg
+  2023-07-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2023-07-19 : Body Height                              98.8 cm
+  2022-07-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-07-13 : Respiratory rate                         16.0 /min
+  2022-07-13 : Heart rate                               99.0 /min
+  2022-07-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2022-07-13 : Body mass index (BMI) [Percentile] Per age and sex 71.5 %
+  2022-07-13 : Body mass index (BMI) [Ratio]            16.1 kg/m2
+  2022-07-13 : Head Occipital-frontal circumference     46.1 cm
+  2022-07-13 : Head Occipital-frontal circumference Percentile 5.6 %
+  2022-07-13 : Weight-for-length Per age and sex        52.5 %
+  2022-07-13 : Body Weight                              13.8 kg
+  2022-07-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2022-07-13 : Body Height                              92.6 cm
+  2022-01-12 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-01-12 : Respiratory rate                         14.0 /min
+  2022-01-12 : Heart rate                               99.0 /min
+  2022-01-12 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2022-01-12 : Body mass index (BMI) [Percentile] Per age and sex 70.5 %
+  2022-01-12 : Body mass index (BMI) [Ratio]            16.2 kg/m2
+  2022-01-12 : Head Occipital-frontal circumference     46.1 cm
+  2022-01-12 : Head Occipital-frontal circumference Percentile 5.6 %
+  2022-01-12 : Weight-for-length Per age and sex        52.5 %
+  2022-01-12 : Body Weight                              13.0 kg
+  2022-01-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-01-12 : Body Height                              89.5 cm
+  2021-07-14 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-07-14 : Respiratory rate                         12.0 /min
+  2021-07-14 : Heart rate                               96.0 /min
+  2021-07-14 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 70.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2021-07-14 : Body mass index (BMI) [Percentile] Per age and sex 66.3 %
+  2021-07-14 : Body mass index (BMI) [Ratio]            16.3 kg/m2
+  2021-07-14 : Head Occipital-frontal circumference     46.1 cm
+  2021-07-14 : Head Occipital-frontal circumference Percentile 5.6 %
+  2021-07-14 : Weight-for-length Per age and sex        57.6 %
+  2021-07-14 : Body Weight                              12.2 kg
+  2021-07-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-07-14 : Body Height                              86.4 cm
+  2021-01-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-01-13 : Respiratory rate                         15.0 /min
+  2021-01-13 : Heart rate                               67.0 /min
+  2021-01-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 69.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2021-01-13 : Body mass index (BMI) [Percentile] Per age and sex 59.2 %
+  2021-01-13 : Body mass index (BMI) [Ratio]            16.4 kg/m2
+  2021-01-13 : Head Occipital-frontal circumference     45.7 cm
+  2021-01-13 : Head Occipital-frontal circumference Percentile 5.6 %
+  2021-01-13 : Weight-for-length Per age and sex        43.1 %
+  2021-01-13 : Body Weight                              11.2 kg
+  2021-01-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-01-13 : Body Height                              82.6 cm
+  2020-07-15 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-07-15 : Respiratory rate                         12.0 /min
+  2020-07-15 : Heart rate                               95.0 /min
+  2020-07-15 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2020-07-15 : Head Occipital-frontal circumference     45.2 cm
+  2020-07-15 : Head Occipital-frontal circumference Percentile 5.6 %
+  2020-07-15 : Weight-for-length Per age and sex        46.8 %
+  2020-07-15 : Body Weight                              10.4 kg
+  2020-07-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-07-15 : Body Height                              78.8 cm
+  2020-01-15 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-01-15 : Respiratory rate                         13.0 /min
+  2020-01-15 : Heart rate                               73.0 /min
+  2020-01-15 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 67.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2020-01-15 : Head Occipital-frontal circumference     44.3 cm
+  2020-01-15 : Head Occipital-frontal circumference Percentile 5.6 %
+  2020-01-15 : Weight-for-length Per age and sex        53.1 %
+  2020-01-15 : Body Weight                              9.4 kg
+  2020-01-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-01-15 : Body Height                              73.7 cm
+  2019-10-16 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-10-16 : Respiratory rate                         14.0 /min
+  2019-10-16 : Heart rate                               65.0 /min
+  2019-10-16 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2019-10-16 : Head Occipital-frontal circumference     43.7 cm
+  2019-10-16 : Head Occipital-frontal circumference Percentile 5.6 %
+  2019-10-16 : Weight-for-length Per age and sex        58.3 %
+  2019-10-16 : Body Weight                              8.8 kg
+  2019-10-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-10-16 : Body Height                              70.9 cm
+  2019-07-17 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-07-17 : Respiratory rate                         13.0 /min
+  2019-07-17 : Heart rate                               96.0 /min
+  2019-07-17 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 65.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2019-07-17 : Head Occipital-frontal circumference     42.9 cm
+  2019-07-17 : Head Occipital-frontal circumference Percentile 5.6 %
+  2019-07-17 : Weight-for-length Per age and sex        59.5 %
+  2019-07-17 : Body Weight                              8.1 kg
+  2019-07-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-07-17 : Body Height                              67.7 cm
+  2019-04-17 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-04-17 : Respiratory rate                         16.0 /min
+  2019-04-17 : Heart rate                               85.0 /min
+  2019-04-17 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2019-04-17 : Head Occipital-frontal circumference     41.8 cm
+  2019-04-17 : Head Occipital-frontal circumference Percentile 5.6 %
+  2019-04-17 : Weight-for-length Per age and sex        59.3 %
+  2019-04-17 : Body Weight                              7.1 kg
+  2019-04-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-04-17 : Body Height                              64.0 cm
+  2019-01-16 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-01-16 : Respiratory rate                         14.0 /min
+  2019-01-16 : Heart rate                               83.0 /min
+  2019-01-16 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 67.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2019-01-16 : Head Occipital-frontal circumference     40.1 cm
+  2019-01-16 : Head Occipital-frontal circumference Percentile 5.6 %
+  2019-01-16 : Weight-for-length Per age and sex        46.4 %
+  2019-01-16 : Body Weight                              5.9 kg
+  2019-01-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-01-16 : Body Height                              59.5 cm
+  2018-11-14 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-11-14 : Respiratory rate                         12.0 /min
+  2018-11-14 : Heart rate                               79.0 /min
+  2018-11-14 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2018-11-14 : Head Occipital-frontal circumference     38.5 cm
+  2018-11-14 : Head Occipital-frontal circumference Percentile 5.6 %
+  2018-11-14 : Weight-for-length Per age and sex        46.3 %
+  2018-11-14 : Body Weight                              4.9 kg
+  2018-11-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-11-14 : Body Height                              55.9 cm
+  2018-09-12 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-09-12 : Respiratory rate                         15.0 /min
+  2018-09-12 : Heart rate                               82.0 /min
+  2018-09-12 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2018-09-12 : Head Occipital-frontal circumference     35.9 cm
+  2018-09-12 : Head Occipital-frontal circumference Percentile 5.6 %
+  2018-09-12 : Weight-for-length Per age and sex        47.5 %
+  2018-09-12 : Body Weight                              3.7 kg
+  2018-09-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-09-12 : Body Height                              51.0 cm
+  2018-08-08 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-08-08 : Platelet [Entitic mean volume] in Blood by Automated count 10.9 fL
+  2018-08-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 10.8 fL
+  2018-08-08 : Platelets [#/volume] in Blood by Automated count 262.5 10*3/uL
+  2018-08-08 : Erythrocyte [DistWidth] in Blood by Automated count 41.5 fL
+  2018-08-08 : MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 33.9 g/dL
+  2018-08-08 : MCH [Entitic mass] by Automated count    30.0 pg
+  2018-08-08 : MCV [Entitic mean volume] in Red Blood Cells by Automated count 82.8 fL
+  2018-08-08 : Hematocrit [Volume Fraction] of Blood by Automated count 38.2 %
+  2018-08-08 : Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+  2018-08-08 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2018-08-08 : Leukocytes [#/volume] in Blood by Automated count 7.3 10*3/uL
+  2018-08-08 : Respiratory rate                         16.0 /min
+  2018-08-08 : Heart rate                               78.0 /min
+  2018-08-08 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2018-08-08 : Head Occipital-frontal circumference     32.3 cm
+  2018-08-08 : Head Occipital-frontal circumference Percentile 5.6 %
+  2018-08-08 : Weight-for-length Per age and sex        46.0 %
+  2018-08-08 : Body Weight                              3.0 kg
+  2018-08-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2018-08-08 : Body Height                              47.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2026-08-05 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2026-08-05 : Medication reconciliation (procedure)
+  2025-07-30 : Medication reconciliation (procedure)
+  2024-07-24 : Medication reconciliation (procedure)
+  2023-07-19 : Medication reconciliation (procedure)
+  2022-01-12 : Medication reconciliation (procedure)
+  2021-07-14 : Medication reconciliation (procedure)
+  2020-01-15 : Medication reconciliation (procedure)
+  2019-10-16 : Medication reconciliation (procedure)
+  2018-09-12 : Medication reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2026-08-05 : Influenza, split virus, trivalent, PF
+  2025-07-30 : Influenza, split virus, trivalent, PF
+  2024-07-24 : Influenza, split virus, trivalent, PF
+  2023-07-19 : MMR
+  2023-07-19 : DTaP
+  2023-07-19 : Influenza, split virus, trivalent, PF
+  2023-07-19 : IPV
+  2023-07-19 : varicella
+  2022-07-13 : Influenza, split virus, trivalent, PF
+  2021-07-14 : Influenza, split virus, trivalent, PF
+  2021-01-13 : Hep A, ped/adol, 2 dose
+  2020-07-15 : Influenza, split virus, trivalent, PF
+  2020-01-15 : DTaP
+  2019-10-16 : Hep A, ped/adol, 2 dose
+  2019-10-16 : Pneumococcal conjugate PCV 13
+  2019-10-16 : MMR
+  2019-10-16 : varicella
+  2019-10-16 : Hib (PRP-OMP)
+  2019-04-17 : Hep B, adolescent or pediatric
+  2019-04-17 : Pneumococcal conjugate PCV 13
+  2019-04-17 : DTaP
+  2019-04-17 : Influenza, split virus, trivalent, PF
+  2019-04-17 : IPV
+  2019-01-16 : Pneumococcal conjugate PCV 13
+  2019-01-16 : DTaP
+  2019-01-16 : IPV
+  2019-01-16 : rotavirus, monovalent
+  2019-01-16 : Hib (PRP-OMP)
+  2018-11-14 : Pneumococcal conjugate PCV 13
+  2018-11-14 : DTaP
+  2018-11-14 : IPV
+  2018-11-14 : rotavirus, monovalent
+  2018-11-14 : Hib (PRP-OMP)
+  2018-09-12 : Hep B, adolescent or pediatric
+  2018-08-08 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2026-08-05 (Dr. Derick144 Bashirian201) : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+2025-07-30 (Dr. Derick144 Bashirian201) : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+2024-07-24 (Dr. Derick144 Bashirian201) : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+2023-07-19 (Dr. Derick144 Bashirian201) : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+2022-07-13 (Dr. Derick144 Bashirian201) : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+2022-01-12 (Dr. Derick144 Bashirian201) : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+2021-07-14 (Dr. Derick144 Bashirian201) : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+2021-01-13 (Dr. Derick144 Bashirian201) : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+2020-07-15 (Dr. Derick144 Bashirian201) : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+2020-06-12 (Dr. Jackelyn13 Pacocha935) : Encounter at WP ACQUISITION SUB LLC : Encounter for Otitis media (disorder)
+2020-01-15 (Dr. Derick144 Bashirian201) : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+2019-10-16 (Dr. Derick144 Bashirian201) : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+2019-10-02 (Dr. Jackelyn13 Pacocha935) : Encounter at WP ACQUISITION SUB LLC : Encounter for Otitis media (disorder)
+2019-07-17 (Dr. Derick144 Bashirian201) : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+2019-04-17 (Dr. Derick144 Bashirian201) : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+2019-01-16 (Dr. Derick144 Bashirian201) : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+2018-11-14 (Dr. Derick144 Bashirian201) : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+2018-09-12 (Dr. Derick144 Bashirian201) : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+2018-08-08 (Dr. Derick144 Bashirian201) : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

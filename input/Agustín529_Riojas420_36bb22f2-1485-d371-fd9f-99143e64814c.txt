@@ -1,0 +1,417 @@
+Agustín529 Riojas420
+=====í==============
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 32
+Birth Date:          1994-02-28
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2026-05-18[CURRENT] : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2026-03-03[STOPPED] : ciprofloxacin 500 MG Oral Tablet for Acute infective cystitis (disorder)
+  2025-05-12[STOPPED] : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2025-05-12[STOPPED] : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2016-10-26[STOPPED] : Acetaminophen 325 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2026-05-18 -            : Unemployed (finding)
+  2026-03-03 - 2026-03-04 : Acute infective cystitis (disorder)
+  2025-05-12 - 2025-05-26 : Gingivitis (disorder)
+  2025-05-12 -            : Stress (finding)
+  2025-05-12 - 2026-05-18 : Part-time employment (finding)
+  2025-05-12 -            : Medication review due (situation)
+  2025-05-12 -            : Essential hypertension (disorder)
+  2023-10-02 - 2023-10-09 : Viral sinusitis (disorder)
+  2022-05-09 -            : Unhealthy alcohol drinking behavior (finding)
+  2022-05-09 - 2022-05-09 : Medication review due (situation)
+  2019-05-06 - 2022-05-09 : Stress (finding)
+  2019-05-06 - 2019-05-06 : Medication review due (situation)
+  2016-10-26 - 2016-11-30 : Sprain of ankle (disorder)
+  2016-10-26 - 2016-11-30 : Sprain (morphologic abnormality)
+  2016-05-02 - 2019-05-06 : Limited social contact (finding)
+  2016-05-02 -            : Anemia (disorder)
+  2016-04-11 -            : Refugee (person)
+  2016-04-11 -            : Prediabetes (finding)
+  2013-04-29 - 2025-05-12 : Full-time employment (finding)
+  2012-04-23 -            : Only received primary school education (finding)
+  2006-03-20 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2025-05-12[CURRENT] : Lifestyle education regarding hypertension (procedure)
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education (procedure)
+                         Activity: Counseling about alcohol consumption (procedure)
+                         Activity: Dietary Approaches to Stop Hypertension diet (regime/therapy)
+                         Activity: Smoking cessation education (procedure)
+  2016-10-26[STOPPED] : Physiotherapy care plan (record artifact)
+                         Reason: Sprain of ankle (disorder)
+                         Activity: Rest, ice, compression and elevation treatment program (regime/therapy)
+                         Activity: Stretching exercises (regime/therapy)
+  2016-04-18[STOPPED] : Respiratory therapy (procedure)
+                         Activity: Recommendation to avoid exercise (procedure)
+                         Activity: Deep breathing and coughing exercises (regime/therapy)
+  2016-04-11[CURRENT] : Diabetes self management plan (record artifact)
+                         Reason: Prediabetes (finding)
+                         Activity: Diabetic diet (finding)
+                         Activity: Exercise therapy (regime/therapy)
+--------------------------------------------------------------------------------
+REPORTS:
+  2026-05-18 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           96.2 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     17.1 mg/dL
+           - Creatinine [Mass/volume] in Blood        2.0 mg/dL
+           - Calcium [Mass/volume] in Blood           10.0 mg/dL
+           - Sodium [Moles/volume] in Blood           137.5 mmol/L
+           - Potassium [Moles/volume] in Blood        4.4 mmol/L
+           - Chloride [Moles/volume] in Blood         104.1 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 20.3 mmol/L
+  2026-03-03 : Urinalysis macro (dipstick) panel - Urine
+           - Glucose [Mass/volume] in Urine by Test strip 14.3 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketones not detected (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.6 pH
+           - Protein [Mass/volume] in Urine by Test strip 14.0 mg/dL
+           - Nitrite [Presence] in Urine by Test strip Nitrite detected in urine (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = + (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test one plus (finding) {nominal}
+           - Leukocytes [#/area] in Urine sediment by Microscopy high power field 28.0 /[HPF]
+           - Erythrocytes [#/area] in Urine sediment by Microscopy high power field 1.8 /[HPF]
+           - Epithelial cells [#/area] in Urine sediment by Microscopy high power field 3.5 /[HPF]
+           - Casts [Presence] in Urine sediment by Light microscopy Urine microscopy: no casts (finding) {nominal}
+           - Mucus [Presence] in Urine sediment by Light microscopy Mucus in urine (finding) {nominal}
+           - Bacteria [#/area] in Urine sediment by Microscopy high power field Finding of presence of bacteria (finding) {nominal}
+  2025-05-12 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2025-05-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2025-05-12 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 165.1 mg/dL
+           - Triglyceride [Mass/volume] in Serum or Plasma 106.5 mg/dL
+           - Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay 89.1 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 54.7 mg/dL
+  2025-05-12 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           98.1 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     10.1 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.5 mg/dL
+           - Calcium [Mass/volume] in Blood           9.7 mg/dL
+           - Sodium [Moles/volume] in Blood           139.9 mmol/L
+           - Potassium [Moles/volume] in Blood        4.4 mmol/L
+           - Chloride [Moles/volume] in Blood         102.2 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 23.9 mmol/L
+  2022-05-09 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    10.0 {score}
+  2022-05-09 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.0 %
+           - MCV [Entitic mean volume] in Red Blood Cells by Automated count 86.3 fL
+           - MCH [Entitic mass] by Automated count    32.3 pg
+           - MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 34.4 g/dL
+           - Erythrocyte [DistWidth] in Blood by Automated count 44.3 fL
+           - Platelets [#/volume] in Blood by Automated count 352.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 13.5 fL
+           - Platelet [Entitic mean volume] in Blood by Automated count 10.4 fL
+  2022-05-09 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           95.3 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     7.5 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.6 mg/dL
+           - Calcium [Mass/volume] in Blood           8.9 mg/dL
+           - Sodium [Moles/volume] in Blood           142.6 mmol/L
+           - Potassium [Moles/volume] in Blood        4.0 mmol/L
+           - Chloride [Moles/volume] in Blood         101.1 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 20.2 mmol/L
+  2019-05-06 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2019-05-06 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           93.9 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     7.9 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.5 mg/dL
+           - Calcium [Mass/volume] in Blood           9.2 mg/dL
+           - Sodium [Moles/volume] in Blood           141.0 mmol/L
+           - Potassium [Moles/volume] in Blood        4.8 mmol/L
+           - Chloride [Moles/volume] in Blood         103.5 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 25.3 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2026-05-18 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner No 
+           - Do you feel physically and emotionally safe where you currently live [PRAPARE] Yes 
+           - Are you a refugee                        Yes 
+           - Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE] No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to [PRAPARE] 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE] I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX] 89194 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Unemployed 
+           - Highest level of education               Less than high school degree 
+           - Address                                  227 Hessel Tunnel 
+           - Are you worried about losing your housing [PRAPARE] No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address [#] 5.0 {#}
+           - Preferred language                       Language other than English 
+           - Discharged from the U.S. Armed Forces    No 
+           - Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE] No 
+           - Race                                     White 
+           - Hispanic or Latino                       No 
+  2026-05-18 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2026-05-18 : Carbon dioxide, total [Moles/volume] in Blood 20.3 mmol/L
+  2026-05-18 : Chloride [Moles/volume] in Blood         104.1 mmol/L
+  2026-05-18 : Potassium [Moles/volume] in Blood        4.4 mmol/L
+  2026-05-18 : Sodium [Moles/volume] in Blood           137.5 mmol/L
+  2026-05-18 : Calcium [Mass/volume] in Blood           10.0 mg/dL
+  2026-05-18 : Creatinine [Mass/volume] in Blood        2.0 mg/dL
+  2026-05-18 : Urea nitrogen [Mass/volume] in Blood     17.1 mg/dL
+  2026-05-18 : Glucose [Mass/volume] in Blood           96.2 mg/dL
+  2026-05-18 : Respiratory rate                         14.0 /min
+  2026-05-18 : Heart rate                               68.0 /min
+  2026-05-18 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2026-05-18 : Body mass index (BMI) [Ratio]            30.0 kg/m2
+  2026-05-18 : Body Weight                              102.4 kg
+  2026-05-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2026-05-18 : Body Height                              184.9 cm
+  2026-05-18 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2026-03-03 : Bacteria identified in Urine by Culture  Greater than 100,000 colony forming units per mL Escherichia coli 
+  2026-03-03 : Bacteria [#/area] in Urine sediment by Microscopy high power field Finding of presence of bacteria (finding) {nominal}
+  2026-03-03 : Mucus [Presence] in Urine sediment by Light microscopy Mucus in urine (finding) {nominal}
+  2026-03-03 : Casts [Presence] in Urine sediment by Light microscopy Urine microscopy: no casts (finding) {nominal}
+  2026-03-03 : Epithelial cells [#/area] in Urine sediment by Microscopy high power field 3.5 /[HPF]
+  2026-03-03 : Erythrocytes [#/area] in Urine sediment by Microscopy high power field 1.8 /[HPF]
+  2026-03-03 : Leukocytes [#/area] in Urine sediment by Microscopy high power field 28.0 /[HPF]
+  2026-03-03 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test one plus (finding) {nominal}
+  2026-03-03 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = + (finding) {nominal}
+  2026-03-03 : Nitrite [Presence] in Urine by Test strip Nitrite detected in urine (finding) {nominal}
+  2026-03-03 : Protein [Mass/volume] in Urine by Test strip 14.0 mg/dL
+  2026-03-03 : pH of Urine by Test strip                5.6 pH
+  2026-03-03 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2026-03-03 : Ketones [Presence] in Urine by Test strip Urine ketones not detected (finding) {nominal}
+  2026-03-03 : Glucose [Mass/volume] in Urine by Test strip 14.3 mg/dL
+  2025-10-09 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2025-08-10 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2025-06-11 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2025-05-12 : Total score [DAST-10]                    1.0 {score}
+  2025-05-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2025-05-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner No 
+           - Do you feel physically and emotionally safe where you currently live [PRAPARE] Yes 
+           - Are you a refugee                        Yes 
+           - Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE] No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to [PRAPARE] 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE] Food 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX] 89194 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               Less than high school degree 
+           - Address                                  227 Hessel Tunnel 
+           - Are you worried about losing your housing [PRAPARE] No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address [#] 5.0 {#}
+           - Preferred language                       Language other than English 
+           - Discharged from the U.S. Armed Forces    No 
+           - Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE] No 
+           - Race                                     White 
+           - Hispanic or Latino                       No 
+  2025-05-12 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2025-05-12 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 54.7 mg/dL
+  2025-05-12 : Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay 89.1 mg/dL
+  2025-05-12 : Triglyceride [Mass/volume] in Serum or Plasma 106.5 mg/dL
+  2025-05-12 : Cholesterol [Mass/volume] in Serum or Plasma 165.1 mg/dL
+  2025-05-12 : Carbon dioxide, total [Moles/volume] in Blood 23.9 mmol/L
+  2025-05-12 : Chloride [Moles/volume] in Blood         102.2 mmol/L
+  2025-05-12 : Potassium [Moles/volume] in Blood        4.4 mmol/L
+  2025-05-12 : Sodium [Moles/volume] in Blood           139.9 mmol/L
+  2025-05-12 : Calcium [Mass/volume] in Blood           9.7 mg/dL
+  2025-05-12 : Creatinine [Mass/volume] in Blood        1.5 mg/dL
+  2025-05-12 : Urea nitrogen [Mass/volume] in Blood     10.1 mg/dL
+  2025-05-12 : Glucose [Mass/volume] in Blood           98.1 mg/dL
+  2025-05-12 : Respiratory rate                         13.0 /min
+  2025-05-12 : Heart rate                               78.0 /min
+  2025-05-12 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 92.0 mm[Hg]
+           - Systolic Blood Pressure                  157.0 mm[Hg]
+  2025-05-12 : Body mass index (BMI) [Ratio]            29.5 kg/m2
+  2025-05-12 : Body Weight                              100.9 kg
+  2025-05-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2025-05-12 : Body Height                              184.9 cm
+  2025-05-12 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2022-05-09 : Total score [AUDIT-C]                    10.0 {score}
+  2022-05-09 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner No 
+           - Do you feel physically and emotionally safe where you currently live [PRAPARE] Yes 
+           - Are you a refugee                        Yes 
+           - Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE] No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to [PRAPARE] 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE] I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX] 89194 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               Less than high school degree 
+           - Address                                  227 Hessel Tunnel 
+           - Are you worried about losing your housing [PRAPARE] No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address [#] 5.0 {#}
+           - Preferred language                       Language other than English 
+           - Discharged from the U.S. Armed Forces    No 
+           - Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE] No 
+           - Race                                     White 
+           - Hispanic or Latino                       No 
+  2022-05-09 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-05-09 : Platelet [Entitic mean volume] in Blood by Automated count 10.4 fL
+  2022-05-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 13.5 fL
+  2022-05-09 : Platelets [#/volume] in Blood by Automated count 352.4 10*3/uL
+  2022-05-09 : Erythrocyte [DistWidth] in Blood by Automated count 44.3 fL
+  2022-05-09 : MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 34.4 g/dL
+  2022-05-09 : MCH [Entitic mass] by Automated count    32.3 pg
+  2022-05-09 : MCV [Entitic mean volume] in Red Blood Cells by Automated count 86.3 fL
+  2022-05-09 : Hematocrit [Volume Fraction] of Blood by Automated count 35.0 %
+  2022-05-09 : Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+  2022-05-09 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2022-05-09 : Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+  2022-05-09 : Carbon dioxide, total [Moles/volume] in Blood 20.2 mmol/L
+  2022-05-09 : Chloride [Moles/volume] in Blood         101.1 mmol/L
+  2022-05-09 : Potassium [Moles/volume] in Blood        4.0 mmol/L
+  2022-05-09 : Sodium [Moles/volume] in Blood           142.6 mmol/L
+  2022-05-09 : Calcium [Mass/volume] in Blood           8.9 mg/dL
+  2022-05-09 : Creatinine [Mass/volume] in Blood        1.6 mg/dL
+  2022-05-09 : Urea nitrogen [Mass/volume] in Blood     7.5 mg/dL
+  2022-05-09 : Glucose [Mass/volume] in Blood           95.3 mg/dL
+  2022-05-09 : Respiratory rate                         15.0 /min
+  2022-05-09 : Heart rate                               81.0 /min
+  2022-05-09 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2022-05-09 : Body mass index (BMI) [Ratio]            28.0 kg/m2
+  2022-05-09 : Body Weight                              95.8 kg
+  2022-05-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-05-09 : Body Height                              184.9 cm
+  2022-05-09 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2019-05-06 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2019-05-06 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner No 
+           - Do you feel physically and emotionally safe where you currently live [PRAPARE] Yes 
+           - Are you a refugee                        Yes 
+           - Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE] No 
+           - Stress level                             Very much 
+           - How often do you see or talk to people that you care about and feel close to [PRAPARE] 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE] I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX] 89194 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               Less than high school degree 
+           - Address                                  227 Hessel Tunnel 
+           - Are you worried about losing your housing [PRAPARE] No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address [#] 5.0 {#}
+           - Preferred language                       Language other than English 
+           - Discharged from the U.S. Armed Forces    No 
+           - Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE] No 
+           - Race                                     White 
+           - Hispanic or Latino                       No 
+  2019-05-06 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-05-06 : Carbon dioxide, total [Moles/volume] in Blood 25.3 mmol/L
+  2019-05-06 : Chloride [Moles/volume] in Blood         103.5 mmol/L
+  2019-05-06 : Potassium [Moles/volume] in Blood        4.8 mmol/L
+  2019-05-06 : Sodium [Moles/volume] in Blood           141.0 mmol/L
+  2019-05-06 : Calcium [Mass/volume] in Blood           9.2 mg/dL
+  2019-05-06 : Creatinine [Mass/volume] in Blood        1.5 mg/dL
+  2019-05-06 : Urea nitrogen [Mass/volume] in Blood     7.9 mg/dL
+  2019-05-06 : Glucose [Mass/volume] in Blood           93.9 mg/dL
+  2019-05-06 : Respiratory rate                         15.0 /min
+  2019-05-06 : Heart rate                               90.0 /min
+  2019-05-06 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2019-05-06 : Body mass index (BMI) [Ratio]            26.6 kg/m2
+  2019-05-06 : Body Weight                              90.9 kg
+  2019-05-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2019-05-06 : Body Height                              184.9 cm
+  2019-05-06 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2026-05-18 : Assessment of health and social care needs (procedure)
+  2026-03-03 : Antibiotic therapy (procedure)
+  2026-03-03 : Urinalysis with reflex to microscopy and culture (procedure)
+  2026-03-03 : Urine specimen collection (procedure)
+  2026-03-03 : Discussion about pregnancy (procedure)
+  2026-03-03 : Evaluation procedure (procedure)
+  2026-03-03 : History and physical examination, limited (procedure)
+  2026-03-03 : Discussion about signs and symptoms (procedure)
+  2026-03-03 : History taking (procedure)
+  2025-05-26 : Oral health education (procedure) for Gingivitis (disorder)
+  2025-05-26 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2025-05-26 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2025-05-26 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2025-05-26 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2025-05-26 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2025-05-12 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2025-05-12 : Screening for drug abuse (procedure)
+  2025-05-12 : Assessment of substance use (procedure)
+  2025-05-12 : Depression screening (procedure)
+  2025-05-12 : Depression screening (procedure)
+  2025-05-12 : Assessment of health and social care needs (procedure)
+  2022-05-09 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-05-09 : Assessment of substance use (procedure)
+  2022-05-09 : Assessment of health and social care needs (procedure)
+  2022-05-09 : Medication reconciliation (procedure)
+  2019-05-20 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2019-05-20 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2019-05-20 : Dental plain X-ray bitewing (procedure)
+  2019-05-20 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2019-05-20 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2019-05-20 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2019-05-20 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2019-05-06 : Patient referral for dental care (procedure)
+  2019-05-06 : Depression screening (procedure)
+  2019-05-06 : Depression screening (procedure)
+  2019-05-06 : Assessment of health and social care needs (procedure)
+  2019-05-06 : Medication reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2026-05-18 : Influenza, split virus, trivalent, PF
+  2025-05-12 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2025-05-12 : Influenza, split virus, trivalent, PF
+  2022-05-09 : Influenza, split virus, trivalent, PF
+  2019-05-06 : Influenza, split virus, trivalent, PF
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2026-05-18 (Dr. Sherwood961 Aufderhar910) : Encounter at DUTTON FAMILY CARE ASSOCIATES LLP
+2026-03-03 (Dr. Emory494 Schuster709) : Encounter at TUFTS MEDICAL CENTER : Encounter for Acute infective cystitis (disorder)
+2025-10-09 (Dr. Emory494 Schuster709) : Encounter at TUFTS MEDICAL CENTER : Encounter for Essential hypertension (disorder)
+2025-08-10 (Dr. Emory494 Schuster709) : Encounter at TUFTS MEDICAL CENTER : Encounter for Essential hypertension (disorder)
+2025-06-11 (Dr. Emory494 Schuster709) : Encounter at TUFTS MEDICAL CENTER : Encounter for Essential hypertension (disorder)
+2025-05-26 (Dr. Emory494 Schuster709) : Encounter at TUFTS MEDICAL CENTER : Encounter for Gingivitis (disorder)
+2025-05-12 (Dr. Sherwood961 Aufderhar910) : Encounter at DUTTON FAMILY CARE ASSOCIATES LLP
+2023-10-02 (Dr. Emory494 Schuster709) : Encounter at TUFTS MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2022-05-09 (Dr. Sherwood961 Aufderhar910) : Encounter at DUTTON FAMILY CARE ASSOCIATES LLP
+2019-05-20 (Dr. Emory494 Schuster709) : Encounter at TUFTS MEDICAL CENTER : Encounter for Patient referral for dental care (procedure)
+2019-05-06 (Dr. Sherwood961 Aufderhar910) : Encounter at DUTTON FAMILY CARE ASSOCIATES LLP
+2016-10-26 (Dr. Emory494 Schuster709) : Encounter at TUFTS MEDICAL CENTER : Encounter for Sprain (morphologic abnormality)
+2016-05-02 (Dr. Sherwood961 Aufderhar910) : Encounter at DUTTON FAMILY CARE ASSOCIATES LLP
+2016-04-18 (Dr. Emory494 Schuster709) : Encounter at TUFTS MEDICAL CENTER : Encounter for Acute bronchitis (disorder)
+2016-04-11 (Dr. Emory494 Schuster709) : Encounter at TUFTS MEDICAL CENTER
+2013-04-29 (Dr. Sherwood961 Aufderhar910) : Encounter at DUTTON FAMILY CARE ASSOCIATES LLP
+2012-04-23 (Dr. Sherwood961 Aufderhar910) : Encounter at DUTTON FAMILY CARE ASSOCIATES LLP
+2006-03-20 (Dr. Sherwood961 Aufderhar910) : Encounter at DUTTON FAMILY CARE ASSOCIATES LLP
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2019-05-20 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+--------------------------------------------------------------------------------

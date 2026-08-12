@@ -1,0 +1,707 @@
+Arnette709 Sanda877 Harber290
+=============================
+Race:                Black
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 28
+Birth Date:          1998-06-29
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2024-10-28[STOPPED] : 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+  2021-10-24[STOPPED] : {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]
+  2020-09-14[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+  2019-11-03[STOPPED] : {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]
+  2018-04-11[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2017-10-09[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2017-06-02[STOPPED] : {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day]
+  2016-09-05[STOPPED] : sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)
+  2016-08-10[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2016-06-07[STOPPED] : {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2026-03-01 -            : Normal pregnancy (finding)
+  2024-01-21 - 2024-09-09 : Normal pregnancy (finding)
+  2023-09-04 - 2023-09-18 : Gingivitis (disorder)
+  2023-09-04 -            : Limited social contact (finding)
+  2023-09-04 - 2023-09-04 : Medication review due (situation)
+  2023-06-19 - 2023-07-03 : Acute viral pharyngitis (disorder)
+  2023-01-22 - 2023-08-07 : Normal pregnancy (finding)
+  2021-01-03 - 2021-02-08 : Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)
+  2021-01-02 - 2021-02-08 : Chill (finding)
+  2021-01-02 - 2021-02-08 : Cough (finding)
+  2021-01-02 - 2021-01-03 : Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)
+  2020-08-31 - 2023-09-04 : Stress (finding)
+  2020-08-31 -            : Body mass index 30+ - obesity (finding)
+  2019-02-03 - 2019-09-16 : Normal pregnancy (finding)
+  2018-04-11 - 2018-06-04 : Epidermal burn of skin (disorder)
+  2018-04-11 - 2018-06-04 : Burn injury (morphologic abnormality)
+  2018-01-14 - 2018-08-20 : Anemia (disorder)
+  2018-01-14 - 2018-08-20 : Normal pregnancy (finding)
+  2017-10-09 - 2017-11-04 : Viral sinusitis (disorder)
+  2017-08-28 - 2020-08-31 : Medication review due (situation)
+  2016-08-22 - 2017-08-28 : Stress (finding)
+  2016-08-22 - 2017-08-28 : Social isolation (finding)
+  2016-08-22 -            : Full-time employment (finding)
+  2016-08-22 -            : Educated to high school level (finding)
+  2016-08-22 -            : Housing unsatisfactory (finding)
+  2016-08-22 - 2016-08-22 : Medication review due (situation)
+  2016-08-10 -            : Chronic intractable migraine without aura (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2026-03-01[CURRENT] : Routine antenatal care (regime/therapy)
+                         Activity: Antenatal education (procedure)
+                         Activity: Antenatal risk assessment (procedure)
+                         Activity: Antenatal blood tests (procedure)
+  2024-01-21[STOPPED] : Routine antenatal care (regime/therapy)
+                         Activity: Antenatal education (procedure)
+                         Activity: Antenatal risk assessment (procedure)
+                         Activity: Antenatal blood tests (procedure)
+  2023-01-22[STOPPED] : Routine antenatal care (regime/therapy)
+                         Activity: Antenatal education (procedure)
+                         Activity: Antenatal risk assessment (procedure)
+                         Activity: Antenatal blood tests (procedure)
+  2021-01-03[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2021-01-03[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+  2019-02-03[STOPPED] : Routine antenatal care (regime/therapy)
+                         Activity: Antenatal education (procedure)
+                         Activity: Antenatal risk assessment (procedure)
+                         Activity: Antenatal blood tests (procedure)
+  2018-04-11[STOPPED] : Burn care (regime/therapy)
+                         Reason: Epidermal burn of skin (disorder)
+                         Activity: Dressing change management (procedure)
+                         Activity: Behavior to prevent sun exposure (observable entity)
+                         Activity: Behavior to prevent infection (observable entity)
+  2018-01-14[STOPPED] : Routine antenatal care (regime/therapy)
+                         Activity: Antenatal education (procedure)
+                         Activity: Antenatal risk assessment (procedure)
+                         Activity: Antenatal blood tests (procedure)
+--------------------------------------------------------------------------------
+REPORTS:
+  2023-09-04 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-01-03 : SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection
+           - SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection Detected (qualifier value) 
+  2021-01-03 : Influenza virus A and B Ag panel - Upper respiratory specimen by Rapid immunoassay
+           - Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+           - Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2020-08-31 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2020-08-31 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2020-08-31 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 7.0 {score}
+  2020-08-31 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.8 %
+           - MCV [Entitic mean volume] in Red Blood Cells by Automated count 94.6 fL
+           - MCH [Entitic mass] by Automated count    32.5 pg
+           - MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 34.3 g/dL
+           - Erythrocyte [DistWidth] in Blood by Automated count 43.3 fL
+           - Platelets [#/volume] in Blood by Automated count 206.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 15.3 fL
+           - Platelet [Entitic mean volume] in Blood by Automated count 10.2 fL
+  2018-01-14 : CBC panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        9.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by calculation 28.8 %
+           - Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - MCV [Entitic mean volume] in Red Blood Cells by Automated count 91.8 fL
+           - MCH [Entitic mass] by Automated count    30.2 pg
+           - MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 35.2 g/dL
+           - Erythrocyte [DistWidth] in Blood by Automated count 43.6 fL
+           - Platelets [#/volume] in Blood by Automated count 169.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 11.4 fL
+           - Platelet [Entitic mean volume] in Blood by Automated count 11.8 fL
+  2017-08-28 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2017-08-28 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-08-28 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2016-08-22 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2026-01-04 : Pregnancy status                         Pregnant 
+  2023-11-26 : Pregnancy status                         Pregnant 
+  2023-09-04 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2023-09-04 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner No 
+           - Do you feel physically and emotionally safe where you currently live [PRAPARE] Yes 
+           - Are you a refugee                        No 
+           - Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE] No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to [PRAPARE] 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE] I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX] 45230 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  813 Lind Byway 
+           - Are you worried about losing your housing [PRAPARE] Yes 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address [#] 1.0 {#}
+           - Preferred language                       English 
+           - Discharged from the U.S. Armed Forces    No 
+           - Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE] No 
+           - Race                                     Black/African American 
+           - Hispanic or Latino                       No 
+  2023-09-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-09-04 : Respiratory rate                         12.0 /min
+  2023-09-04 : Heart rate                               91.0 /min
+  2023-09-04 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2023-09-04 : Body mass index (BMI) [Ratio]            30.1 kg/m2
+  2023-09-04 : Body Weight                              73.5 kg
+  2023-09-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2023-09-04 : Body Height                              156.3 cm
+  2023-06-19 : Body temperature                         37.4 Cel
+  2022-11-27 : Pregnancy status                         Pregnant 
+  2021-01-03 : SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection Detected (qualifier value) 
+  2021-01-03 : Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2021-01-03 : Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2021-01-02 : Body Weight                              73.5 kg
+  2021-01-02 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2021-01-02 : Oxygen saturation in Arterial blood      87.6 %
+  2021-01-02 : Heart rate                               68.6 /min
+  2021-01-02 : Respiratory rate                         15.0 /min
+  2021-01-02 : Body temperature                         38.6 Cel
+  2020-08-31 : Total score [DAST-10]                    2.0 {score}
+  2020-08-31 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2020-08-31 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 7.0 {score}
+  2020-08-31 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner No 
+           - Do you feel physically and emotionally safe where you currently live [PRAPARE] Yes 
+           - Are you a refugee                        No 
+           - Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE] No 
+           - Stress level                             Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to [PRAPARE] 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE] Utilities 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX] 45230 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  813 Lind Byway 
+           - Are you worried about losing your housing [PRAPARE] Yes 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address [#] 1.0 {#}
+           - Preferred language                       English 
+           - Discharged from the U.S. Armed Forces    No 
+           - Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE] No 
+           - Race                                     Black/African American 
+           - Hispanic or Latino                       No 
+  2020-08-31 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-08-31 : Platelet [Entitic mean volume] in Blood by Automated count 10.2 fL
+  2020-08-31 : Platelet distribution width [Entitic volume] in Blood by Automated count 15.3 fL
+  2020-08-31 : Platelets [#/volume] in Blood by Automated count 206.1 10*3/uL
+  2020-08-31 : Erythrocyte [DistWidth] in Blood by Automated count 43.3 fL
+  2020-08-31 : MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 34.3 g/dL
+  2020-08-31 : MCH [Entitic mass] by Automated count    32.5 pg
+  2020-08-31 : MCV [Entitic mean volume] in Red Blood Cells by Automated count 94.6 fL
+  2020-08-31 : Hematocrit [Volume Fraction] of Blood by Automated count 39.8 %
+  2020-08-31 : Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+  2020-08-31 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2020-08-31 : Leukocytes [#/volume] in Blood by Automated count 8.9 10*3/uL
+  2020-08-31 : Respiratory rate                         14.0 /min
+  2020-08-31 : Heart rate                               68.0 /min
+  2020-08-31 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2020-08-31 : Body mass index (BMI) [Ratio]            30.1 kg/m2
+  2020-08-31 : Body Weight                              73.5 kg
+  2020-08-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-08-31 : Body Height                              156.3 cm
+  2018-12-09 : Pregnancy status                         Pregnant 
+  2018-01-14 : Platelet [Entitic mean volume] in Blood by Automated count 11.8 fL
+  2018-01-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 11.4 fL
+  2018-01-14 : Platelets [#/volume] in Blood by Automated count 169.7 10*3/uL
+  2018-01-14 : Erythrocyte [DistWidth] in Blood by Automated count 43.6 fL
+  2018-01-14 : MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count 35.2 g/dL
+  2018-01-14 : MCH [Entitic mass] by Automated count    30.2 pg
+  2018-01-14 : MCV [Entitic mean volume] in Red Blood Cells by Automated count 91.8 fL
+  2018-01-14 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2018-01-14 : Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+  2018-01-14 : Hematocrit [Volume Fraction] of Blood by calculation 28.8 %
+  2018-01-14 : Hemoglobin [Mass/volume] in Blood        9.8 g/dL
+  2017-11-19 : Pregnancy status                         Pregnant 
+  2017-08-28 : Total score [DAST-10]                    0.0 {score}
+  2017-08-28 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-08-28 : Total score [HARK]                       0.0 {score}
+  2017-08-28 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner No 
+           - Do you feel physically and emotionally safe where you currently live [PRAPARE] Yes 
+           - Are you a refugee                        No 
+           - Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE] No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to [PRAPARE] 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE] I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX] 45230 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  813 Lind Byway 
+           - Are you worried about losing your housing [PRAPARE] Yes 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address [#] 1.0 {#}
+           - Preferred language                       English 
+           - Discharged from the U.S. Armed Forces    No 
+           - Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE] No 
+           - Race                                     Black/African American 
+           - Hispanic or Latino                       No 
+  2017-08-28 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2017-08-28 : Respiratory rate                         14.0 /min
+  2017-08-28 : Heart rate                               79.0 /min
+  2017-08-28 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2017-08-28 : Body mass index (BMI) [Percentile] Per age and sex 90.6 %
+  2017-08-28 : Body mass index (BMI) [Ratio]            28.0 kg/m2
+  2017-08-28 : Body Weight                              68.5 kg
+  2017-08-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-08-28 : Body Height                              156.3 cm
+  2016-08-22 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2016-08-22 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner No 
+           - Do you feel physically and emotionally safe where you currently live [PRAPARE] Yes 
+           - Are you a refugee                        No 
+           - Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE] No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to [PRAPARE] Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE] I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX] 45230 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  813 Lind Byway 
+           - Are you worried about losing your housing [PRAPARE] Yes 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address [#] 1.0 {#}
+           - Preferred language                       English 
+           - Discharged from the U.S. Armed Forces    No 
+           - Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE] No 
+           - Race                                     Black/African American 
+           - Hispanic or Latino                       No 
+  2016-08-22 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2016-08-22 : Respiratory rate                         13.0 /min
+  2016-08-22 : Heart rate                               95.0 /min
+  2016-08-22 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2016-08-22 : Body mass index (BMI) [Percentile] Per age and sex 89.1 %
+  2016-08-22 : Body mass index (BMI) [Ratio]            27.0 kg/m2
+  2016-08-22 : Body Weight                              65.7 kg
+  2016-08-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-08-22 : Body Height                              156.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2026-07-20 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2026-07-20 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2026-07-20 : Urine screening for glucose (procedure) for Normal pregnancy (finding)
+  2026-07-20 : Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure) for Normal pregnancy (finding)
+  2026-07-20 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2026-06-22 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2026-06-22 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2026-05-25 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2026-05-25 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2026-04-27 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2026-04-27 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2026-04-27 : Alpha-fetoprotein test - antenatal (procedure) for Normal pregnancy (finding)
+  2026-04-27 : Fetal anatomy study (procedure) for Normal pregnancy (finding)
+  2026-03-30 : Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure) for Normal pregnancy (finding)
+  2026-03-30 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2026-03-30 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Urinalysis, protein, qualitative (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Measurement of Varicella-zoster virus antibody (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Rubella screening test (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Hepatitis C antibody, confirmatory test (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Urine screening test for diabetes (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Cytopathology procedure, preparation of smear, genital source (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Urine culture (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Syphilis infectious titer test (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Gonorrhea infection titer test (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Chlamydia antigen test (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Human immunodeficiency virus antigen test (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Hepatitis B surface antigen measurement (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Blood group typing (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2026-03-01 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2024-10-21 : Depression screening (procedure)
+  2024-10-21 : Physical examination procedure (procedure)
+  2024-09-09 : Cesarean section (procedure) for Normal pregnancy (finding)
+  2024-09-09 : Epidural anesthesia (procedure) for Normal pregnancy (finding)
+  2024-09-02 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2024-09-02 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2024-08-26 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2024-08-26 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2024-08-19 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2024-08-19 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2024-08-05 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2024-08-05 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2024-08-05 : Streptococcus pneumoniae group B antigen assay (procedure) for Normal pregnancy (finding)
+  2024-07-08 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2024-07-08 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2024-06-10 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2024-06-10 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2024-06-10 : Urine screening for glucose (procedure) for Normal pregnancy (finding)
+  2024-06-10 : Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure) for Normal pregnancy (finding)
+  2024-06-10 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2024-05-13 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2024-05-13 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2024-04-15 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2024-04-15 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2024-03-18 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2024-03-18 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2024-03-18 : Alpha-fetoprotein test - antenatal (procedure) for Normal pregnancy (finding)
+  2024-03-18 : Fetal anatomy study (procedure) for Normal pregnancy (finding)
+  2024-02-18 : Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure) for Normal pregnancy (finding)
+  2024-02-18 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2024-02-18 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Urinalysis, protein, qualitative (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Measurement of Varicella-zoster virus antibody (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Rubella screening test (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Hepatitis C antibody, confirmatory test (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Urine screening test for diabetes (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Cytopathology procedure, preparation of smear, genital source (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Urine culture (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Syphilis infectious titer test (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Gonorrhea infection titer test (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Chlamydia antigen test (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Human immunodeficiency virus antigen test (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Hepatitis B surface antigen measurement (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Blood group typing (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2024-01-21 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2023-09-25 : Depression screening (procedure)
+  2023-09-25 : Physical examination procedure (procedure)
+  2023-09-18 : Oral health education (procedure) for Gingivitis (disorder)
+  2023-09-18 : Examination of gingivae (procedure) for Gingivitis (disorder)
+  2023-09-18 : Dental plain X-ray bitewing (procedure)
+  2023-09-18 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2023-09-18 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)
+  2023-09-18 : Dental care (regime/therapy) for Gingivitis (disorder)
+  2023-09-18 : Dental consultation and report (procedure) for Gingivitis (disorder)
+  2023-09-04 : Patient referral for dental care (procedure) for Gingivitis (disorder)
+  2023-09-04 : Assessment of anxiety (procedure)
+  2023-09-04 : Assessment of health and social care needs (procedure)
+  2023-09-04 : Medication reconciliation (procedure)
+  2023-08-07 : Premature birth of newborn (finding) for Normal pregnancy (finding)
+  2023-08-07 : Episiotomy (procedure) for Normal pregnancy (finding)
+  2023-07-10 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2023-07-10 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2023-06-12 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2023-06-12 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2023-06-12 : Urine screening for glucose (procedure) for Normal pregnancy (finding)
+  2023-06-12 : Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure) for Normal pregnancy (finding)
+  2023-06-12 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2023-05-15 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2023-05-15 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2023-04-17 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2023-04-17 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2023-03-20 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2023-03-20 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2023-03-20 : Alpha-fetoprotein test - antenatal (procedure) for Normal pregnancy (finding)
+  2023-03-20 : Fetal anatomy study (procedure) for Normal pregnancy (finding)
+  2023-02-19 : Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure) for Normal pregnancy (finding)
+  2023-02-19 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2023-02-19 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Urinalysis, protein, qualitative (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Measurement of Varicella-zoster virus antibody (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Rubella screening test (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Hepatitis C antibody, confirmatory test (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Urine screening test for diabetes (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Cytopathology procedure, preparation of smear, genital source (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Urine culture (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Syphilis infectious titer test (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Gonorrhea infection titer test (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Chlamydia antigen test (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Human immunodeficiency virus antigen test (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Hepatitis B surface antigen measurement (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Blood group typing (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2023-01-22 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2021-01-02 : Face mask (physical object) for Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)
+  2020-09-14 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2020-09-14 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2020-09-14 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2020-09-14 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2020-09-14 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2020-09-14 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2020-09-14 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2020-08-31 : Patient referral for dental care (procedure)
+  2020-08-31 : Screening for drug abuse (procedure)
+  2020-08-31 : Assessment of substance use (procedure)
+  2020-08-31 : Depression screening (procedure)
+  2020-08-31 : Depression screening (procedure)
+  2020-08-31 : Assessment of anxiety (procedure)
+  2020-08-31 : Assessment of health and social care needs (procedure)
+  2020-08-31 : Medication reconciliation (procedure)
+  2019-10-28 : Depression screening (procedure)
+  2019-10-28 : Physical examination procedure (procedure)
+  2019-09-16 : Human parturition, function (observable entity) for Normal pregnancy (finding)
+  2019-09-16 : Medical induction of labor (procedure) for Normal pregnancy (finding)
+  2019-09-09 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-09-09 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-09-02 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-09-02 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-08-19 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-08-19 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-08-19 : Streptococcus pneumoniae group B antigen assay (procedure) for Normal pregnancy (finding)
+  2019-07-22 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-07-22 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-06-24 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-06-24 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-06-24 : Urine screening for glucose (procedure) for Normal pregnancy (finding)
+  2019-06-24 : Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure) for Normal pregnancy (finding)
+  2019-06-24 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2019-05-27 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-05-27 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-04-29 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-04-29 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-04-01 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-04-01 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-04-01 : Alpha-fetoprotein test - antenatal (procedure) for Normal pregnancy (finding)
+  2019-04-01 : Fetal anatomy study (procedure) for Normal pregnancy (finding)
+  2019-03-03 : Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure) for Normal pregnancy (finding)
+  2019-03-03 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-03-03 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Urinalysis, protein, qualitative (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Measurement of Varicella-zoster virus antibody (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Rubella screening test (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Hepatitis C antibody, confirmatory test (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Urine screening test for diabetes (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Cytopathology procedure, preparation of smear, genital source (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Urine culture (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Syphilis infectious titer test (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Gonorrhea infection titer test (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Chlamydia antigen test (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Human immunodeficiency virus antigen test (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Hepatitis B surface antigen measurement (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Blood group typing (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2019-02-03 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2018-10-01 : Depression screening (procedure)
+  2018-10-01 : Physical examination procedure (procedure)
+  2018-08-20 : Premature birth of newborn (finding) for Normal pregnancy (finding)
+  2018-08-20 : Episiotomy (procedure) for Normal pregnancy (finding)
+  2018-07-23 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2018-07-23 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2018-06-25 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2018-06-25 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2018-06-25 : Urine screening for glucose (procedure) for Normal pregnancy (finding)
+  2018-06-25 : Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure) for Normal pregnancy (finding)
+  2018-06-25 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2018-05-28 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2018-05-28 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2018-04-30 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2018-04-30 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2018-04-25 : Discharge from hospital (procedure)
+  2018-04-25 : Pre-discharge assessment (procedure)
+  2018-04-24 : Professional / ancillary services care (regime/therapy)
+  2018-04-24 : Occupational therapy (regime/therapy)
+  2018-04-24 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-04-23 : Speech and language therapy regime (regime/therapy)
+  2018-04-23 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-04-22 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-04-21 : Speech and language therapy regime (regime/therapy)
+  2018-04-21 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-04-20 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-04-19 : Professional / ancillary services care (regime/therapy)
+  2018-04-19 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-04-18 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-04-17 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-04-16 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-04-15 : Physical therapy procedure (regime/therapy)
+  2018-04-15 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-04-14 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-04-13 : Speech and language therapy regime (regime/therapy)
+  2018-04-13 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-04-12 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-04-11 : Speech and language therapy regime (regime/therapy)
+  2018-04-11 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-04-11 : Development of individualized plan of care (procedure)
+  2018-04-11 : Initial patient assessment (procedure)
+  2018-04-11 : History AND physical examination (procedure)
+  2018-03-12 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2018-03-12 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2018-03-12 : Alpha-fetoprotein test - antenatal (procedure) for Normal pregnancy (finding)
+  2018-03-12 : Fetal anatomy study (procedure) for Normal pregnancy (finding)
+  2018-02-12 : Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure) for Normal pregnancy (finding)
+  2018-02-12 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2018-02-12 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2018-01-15 : Brief general examination (procedure)
+  2018-01-15 : Medication reconciliation (procedure)
+  2018-01-15 : Review of systems (procedure)
+  2018-01-14 : Peripheral blood smear interpretation (procedure)
+  2018-01-14 : Physical examination procedure (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Urinalysis, protein, qualitative (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Measurement of Varicella-zoster virus antibody (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Rubella screening test (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Hepatitis C antibody, confirmatory test (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Urine screening test for diabetes (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Cytopathology procedure, preparation of smear, genital source (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Urine culture (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Syphilis infectious titer test (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Gonorrhea infection titer test (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Chlamydia antigen test (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Human immunodeficiency virus antigen test (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Hepatitis B surface antigen measurement (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Blood group typing (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Auscultation of the fetal heart (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Evaluation of uterine fundal height (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Ultrasound scan for fetal viability (procedure) for Normal pregnancy (finding)
+  2018-01-14 : Standard pregnancy test (procedure) for Normal pregnancy (finding)
+  2017-10-02 : Intramuscular injection (procedure)
+  2017-08-28 : Screening for drug abuse (procedure)
+  2017-08-28 : Assessment of substance use (procedure)
+  2017-08-28 : Depression screening (procedure)
+  2017-08-28 : Depression screening (procedure)
+  2017-08-28 : Screening for domestic abuse (procedure)
+  2017-08-28 : Assessment of health and social care needs (procedure)
+  2017-07-03 : Intramuscular injection (procedure)
+  2017-04-03 : Intramuscular injection (procedure)
+  2017-01-01 : Intramuscular injection (procedure)
+  2016-10-03 : Intramuscular injection (procedure)
+  2016-09-05 : Oral health education (procedure) for Patient referral for dental care (procedure)
+  2016-09-05 : Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)
+  2016-09-05 : Examination of gingivae (procedure) for Patient referral for dental care (procedure)
+  2016-09-05 : Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2016-09-05 : Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)
+  2016-09-05 : Dental care (regime/therapy) for Patient referral for dental care (procedure)
+  2016-09-05 : Dental consultation and report (procedure) for Patient referral for dental care (procedure)
+  2016-08-22 : Patient referral for dental care (procedure)
+  2016-08-22 : Depression screening (procedure)
+  2016-08-22 : Depression screening (procedure)
+  2016-08-22 : Assessment of health and social care needs (procedure)
+  2016-08-22 : Medication reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2023-09-04 : Influenza, split virus, trivalent, PF
+  2021-12-26 : COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+  2021-11-28 : COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+  2020-08-31 : meningococcal MCV4P
+  2020-08-31 : Hep B, adult
+  2020-08-31 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2020-08-31 : Influenza, split virus, trivalent, PF
+  2017-08-28 : Influenza, split virus, trivalent, PF
+  2016-08-22 : Influenza, split virus, trivalent, PF
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2026-07-20 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2026-06-22 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2026-05-25 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2026-04-27 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2026-03-30 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2026-03-01 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2024-10-28 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Contraception care (regime/therapy)
+2024-10-21 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL
+2024-09-09 (Dr. Lincoln623 Block661) : Encounter at HARVARD STREET NEIGHBORHOOD HEALTH CENTER : Encounter for Normal pregnancy (finding)
+2024-09-02 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2024-08-26 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2024-08-19 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2024-08-05 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2024-07-08 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2024-06-10 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2024-05-13 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2024-04-15 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2024-03-18 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2024-02-18 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2024-01-21 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2023-09-25 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL
+2023-09-18 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Gingivitis (disorder)
+2023-09-04 (Dr. Lincoln623 Block661) : Encounter at HARVARD STREET NEIGHBORHOOD HEALTH CENTER
+2023-08-07 (Dr. Lincoln623 Block661) : Encounter at HARVARD STREET NEIGHBORHOOD HEALTH CENTER : Encounter for Normal pregnancy (finding)
+2023-07-10 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2023-06-19 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2023-06-12 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2023-05-15 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2023-04-17 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2023-03-20 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2023-02-19 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2023-01-22 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2021-12-26 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL
+2021-11-28 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL
+2021-10-24 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Contraception care (regime/therapy)
+2021-01-02 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)
+2020-09-14 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Patient referral for dental care (procedure)
+2020-08-31 (Dr. Lincoln623 Block661) : Encounter at HARVARD STREET NEIGHBORHOOD HEALTH CENTER
+2019-11-03 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Contraception care (regime/therapy)
+2019-10-28 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL
+2019-09-16 (Dr. Lincoln623 Block661) : Encounter at HARVARD STREET NEIGHBORHOOD HEALTH CENTER : Encounter for Normal pregnancy (finding)
+2019-09-09 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-09-02 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-08-19 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-07-22 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-06-24 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-05-27 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-04-29 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-04-01 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-03-03 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2019-02-03 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2018-10-01 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL
+2018-08-20 (Dr. Lincoln623 Block661) : Encounter at HARVARD STREET NEIGHBORHOOD HEALTH CENTER : Encounter for Normal pregnancy (finding)
+2018-07-23 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2018-06-25 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2018-06-04 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Epidermal burn of skin (disorder)
+2018-05-28 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2018-04-30 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2018-04-11 (Dr. Petrina721 Huels583) : Encounter at ASHMONT HILL, LLC : Encounter for Patient transfer to skilled nursing facility (procedure)
+2018-04-11 (Dr. Lincoln623 Block661) : Encounter at HARVARD STREET NEIGHBORHOOD HEALTH CENTER : Encounter for Burn injury (morphologic abnormality)
+2018-03-12 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2018-02-12 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2018-01-14 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Anemia (disorder)
+2018-01-14 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Normal pregnancy (finding)
+2017-10-09 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Viral sinusitis (disorder)
+2017-10-02 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Contraception care (regime/therapy)
+2017-08-28 (Dr. Lincoln623 Block661) : Encounter at HARVARD STREET NEIGHBORHOOD HEALTH CENTER
+2017-07-03 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Contraception care (regime/therapy)
+2017-06-02 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Contraception care (regime/therapy)
+2017-04-03 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Contraception care (regime/therapy)
+2017-01-01 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Contraception care (regime/therapy)
+2016-10-03 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Contraception care (regime/therapy)
+2016-09-05 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Patient referral for dental care (procedure)
+2016-08-22 (Dr. Lincoln623 Block661) : Encounter at HARVARD STREET NEIGHBORHOOD HEALTH CENTER
+2016-08-10 (Dr. Lincoln623 Block661) : Encounter at HARVARD STREET NEIGHBORHOOD HEALTH CENTER : Encounter for Chronic intractable migraine without aura (disorder)
+2016-06-07 (Dr. Cindie288 Zulauf375) : Encounter at LEMUEL SHATTUCK HOSPITAL : Encounter for Contraception care (regime/therapy)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2023-09-18 : Digital Radiography, Structure of region of internal part of mouth (body structure)
+--------------------------------------------------------------------------------
