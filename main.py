@@ -54,7 +54,7 @@ def main():
 
     input_files = text_files + pdf_files
 
-    if not text_files:
+    if not input_files:
         print("No text files found in the input directory.")
         return
 
