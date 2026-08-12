@@ -1,5 +1,5 @@
 from pathlib import Path
-
+from pypdf import PdfReader
 import torch
 from transformers import pipeline
 
@@ -21,13 +21,25 @@ def summarize_text(summarizer, text):
 
     result = summarizer(
         text,
-        max_length=100,
-        min_length=25,
+        max_length=400,
+        min_length=250,
         do_sample=False,
     )
 
     return result[0]["summary_text"]
 
+
+def read_pdf(file_path):
+    reader = PdfReader(file_path)
+    text = ""
+
+    for page in reader.pages:
+        page_text = page.extract_text()
+
+        if page_text:
+            text += page_text + "\n"
+
+    return text
 
 def main():
     base_dir = Path(__file__).resolve().parent
@@ -38,6 +50,9 @@ def main():
         return
 
     text_files = sorted(input_dir.glob("*.txt"))
+    pdf_files = sorted(input_dir.glob("*.pdf"))
+
+    input_files = text_files + pdf_files
 
     if not text_files:
         print("No text files found in the input directory.")
@@ -47,20 +62,23 @@ def main():
     summarizer = create_summarizer()
     print("Model loaded successfully.\n")
 
-    for file_path in text_files:
+    for file_path in input_files:
         print(f"--- {file_path.name} ---")
 
+    if file_path.suffix == ".txt":
         with file_path.open("r", encoding="utf-8") as handle:
             text = handle.read()
 
-        summary = summarize_text(summarizer, text)
+    elif file_path.suffix == ".pdf":
+        text = read_pdf(file_path)
 
-        print("Original text:")
-        print(text)
+    summary = summarize_text(summarizer, text)
 
-        print("\nGenerated summary:")
-        print(summary)
-        print()
+    print("Original text:")
+    print(text)
+
+    print("\nGenerated summary:")
+    print(summary)
 
 
 if __name__ == "__main__":
