@@ -1,15 +1,23 @@
 from pathlib import Path
 from pypdf import PdfReader
 import torch
-from transformers import pipeline
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, pipeline
 
 
 def create_summarizer():
     device = 0 if torch.cuda.is_available() else -1
+    model_name = "hossboll/clinical-t5"
+
+
+    tokenizer = AutoTokenizer.from_pretrained(model_name, model_max_length=14096) #THIS FIXES THE MAX TOKEN ISSUE
+    #but if it is set too high, your computer will run out of memory.
+
+    model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 
     return pipeline(
         task="summarization",
-        model="sshleifer/distilbart-cnn-12-6",
+        model=model,
+        tokenizer=tokenizer,
         framework="pt",
         device=device,
     )
@@ -21,7 +29,8 @@ def summarize_text(summarizer, text):
 
     result = summarizer(
         text,
-        max_length=400,
+        max_length=2048,
+        max_new_tokens=2048, #max length and max new tokens must be the same
         min_length=250,
         do_sample=False,
     )
