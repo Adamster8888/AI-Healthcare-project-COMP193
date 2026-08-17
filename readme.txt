@@ -7,8 +7,10 @@ This is a quick fake pdf to test the ability for the code to read and summarize 
 main.py:
 Slowly adding in the AI fundamentals I did install some transformers that should help run the AI more smoothly
 
+app.py: identical to main.py as of 8/16. On execution, opens a webpage where you can paste text or upload files.
+
 Update:
-Updated the code for it to actually be able to read from all added files. A text file and a PDF file
+Now contains a streamlit app that is identical to main.py, except that it opens a web browser page where you can input files.
 
 
 MUST READ:
@@ -17,6 +19,9 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install torch transformers sentencepiece
 python -m pip install pypdf
+
+python -m pip install streamlit
+python -m streamlit run app.py
 
 Notes:
 If you cant see everything on one line do the following
