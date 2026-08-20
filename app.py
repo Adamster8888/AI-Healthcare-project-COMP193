@@ -1,8 +1,11 @@
 import streamlit as st
-from pathlib import Path
-from pypdf import PdfReader
-import torch
-from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, pipeline
+from io import BytesIO
+
+from main import (
+    create_patient_summary,
+    create_summarizer as load_summarizer,
+    read_pdf,
+)
 
 st.set_page_config(page_title="Clinical Text Summarizer", layout="wide")
 
@@ -11,47 +14,22 @@ st.markdown("Summarize clinical documents using AI-powered analysis")
 
 @st.cache_resource
 def create_summarizer():
-    """Load and cache the summarization model"""
-    device = 0 if torch.cuda.is_available() else -1
-    model_name = "hossboll/clinical-t5"
-    
-    tokenizer = AutoTokenizer.from_pretrained(model_name, model_max_length=14096)
-    model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
-    
-    return pipeline(
-        task="summarization",
-        model=model,
-        tokenizer=tokenizer,
-        framework="pt",
-        device=device,
-    )
+    """Load and cache the same FLAN-T5 summarizer used by main.py."""
+    return load_summarizer()
 
-def summarize_text(summarizer, text):
-    """Summarize the input text"""
-    if len(text.split()) < 30:
-        return "The file does not contain enough text to summarize."
-    
-    result = summarizer(
-        text,
-        max_length=2048,
-        max_new_tokens=2048,
-        min_length=250,
-        do_sample=False,
-    )
-    
-    return result[0]["summary_text"]
 
-def read_pdf(file_path):
-    """Extract text from PDF"""
-    reader = PdfReader(file_path)
-    text = ""
-    
-    for page in reader.pages:
-        page_text = page.extract_text()
-        if page_text:
-            text += page_text + "\n"
-    
-    return text
+def read_uploaded_file(uploaded_file):
+    """Read an uploaded TXT or PDF using the same PDF extraction logic."""
+    if uploaded_file.name.lower().endswith(".txt"):
+        return uploaded_file.getvalue().decode("utf-8")
+
+    return read_pdf(BytesIO(uploaded_file.getvalue()))
+
+
+def generate_summary(text):
+    """Run the exact section-based summary workflow from main.py."""
+    summarizer = create_summarizer()
+    return create_patient_summary(summarizer, text)
 
 # Sidebar for settings
 with st.sidebar:
@@ -66,8 +44,7 @@ if input_type == "Text Input":
     if st.button("Summarize Text", type="primary"):
         if text_input.strip():
             with st.spinner("Loading model and generating summary..."):
-                summarizer = create_summarizer()
-                summary = summarize_text(summarizer, text_input)
+                summary = generate_summary(text_input)
             
             col1, col2 = st.columns(2)
             
@@ -92,21 +69,8 @@ else:  # File Upload
     if uploaded_file is not None:
         if st.button("Summarize File", type="primary"):
             with st.spinner("Loading model and processing file..."):
-                # Read file based on type
-                if uploaded_file.type == "text/plain":
-                    text = uploaded_file.read().decode("utf-8")
-                else:  # PDF
-                    from io import BytesIO
-                    pdf_bytes = BytesIO(uploaded_file.read())
-                    reader = PdfReader(pdf_bytes)
-                    text = ""
-                    for page in reader.pages:
-                        page_text = page.extract_text()
-                        if page_text:
-                            text += page_text + "\n"
-                
-                summarizer = create_summarizer()
-                summary = summarize_text(summarizer, text)
+                text = read_uploaded_file(uploaded_file)
+                summary = generate_summary(text)
             
             col1, col2 = st.columns(2)
             
@@ -128,4 +92,4 @@ else:  # File Upload
             )
 
 st.markdown("---")
-st.markdown("**Note:** The first run may take a few moments to load the model.")
+st.markdown("The first run may take a few moments to load the model.")
